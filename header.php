@@ -36,7 +36,7 @@
                                  <li><a href="testimonial.html">Short Settled Insurance Claims</a></li>
                               </ul>
                            </li>
-                           <li> <a href="blog.html">Blog</a> </li>
+                           <li> <a href="blogs.php">Blog</a> </li>
                            <li>
                               <a href="contact.html">Contact</a>
                            </li>
