@@ -16,8 +16,8 @@
                   <div class="tp-main-menu tp-menu-family">
                      <nav class="tp-main-menu-content">
                         <ul>
-                           <li class="position-static"> <a href="index.html">Home</a></li>
-                           <li><a href="#">About Us</a> </li>
+                           <li class="position-static"> <a href="index.php">Home</a></li>
+                           <li><a href="about.php">About Us</a> </li>
                            <li class="has-dropdown">
                               <a href="#">Insurance</a>
                               <ul class="tp-submenu submenu">
