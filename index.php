@@ -612,7 +612,7 @@
                                             aria-labelledby="v-pills-health-tab">
                                             <div class="tp-contact-form">
                                                 <form action="#">
-                                                    <h2 class="tp-contact-form-title mb-30">Home Insurance</h2>
+                                                   
                                                     <div class="tp-contact-input mb-15">
                                                         <input type="text" name="full-name" placeholder="Full Name">
                                                     </div>
