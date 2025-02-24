@@ -115,7 +115,7 @@
                   <div class="col-lg-12">
                      <div class="tp-contact-form-2">
                         <h3 class="tp-contact-form-title-2 mb-40">Send your meassage</h3>
-                        <form id="contact-form" action="https://html.hixstudio.net/insurai-prev/insurai/assets/mail.php" method="POST">
+                        <form id="contact-form" action="" method="POST">
                            <div class="row">
                               <div class="col-lg-6 mb-20">
                                  <div class="tp-contact-single-input">
@@ -129,21 +129,21 @@
                               </div>
                               <div class="col-lg-6 mb-20">
                                  <div class="tp-contact-single-input">
-                                    <input type="text" placeholder="Your website">
+                                    <input type="number" placeholder="Enter your Phone Number">
                                  </div>
                               </div>
                               <div class="col-lg-6 mb-20">
                                  <div class="tp-contact-single-input">
-                                    <input type="text" placeholder="Your subject">
+                                    <input type="text" placeholder="Your subject" name="subject">
                                  </div>
                               </div>
                               <div class="col-lg-12 mb-10">
                                  <div class="tp-contact-single-textarea">
-                                    <textarea placeholder="Write your message"></textarea>
+                                    <textarea type="text" placeholder="Write your message" name="message"></textarea>
                                  </div>
                               </div>
                               <div class="tp-contact-btn-2 lineheight-1">
-                                 <button class="tp-btn tp-btn-green lineheight-1" >Send Your Message</button>
+                                 <button class="tp-btn tp-btn-green lineheight-1" type="submit" name="submit">Send Your Message</button>
                                  <p class="ajax-response"></p>
                               </div>
                            </div>

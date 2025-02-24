@@ -87,7 +87,7 @@
                                 <div class="d-flex align-items-center">
                                     <span class="tp-about-travel-icon"><img src="assets/img/about/travel/qoute.svg"
                                             alt="qoute"></span>
-                                    <p>After using insurance<br> our life is so much <br> happier</p>
+                                    <p>Simplifying Your Insurance <br>Claims Journey</p>
                                 </div>
                             </div>
                             <div class="tp-about-travel-shape-2 p-absolute tptranslateY2 ">
@@ -96,9 +96,8 @@
                                         src="assets/img/about/travel/01.png" alt="travel">
                                     <span class="tp-about-travel-icon2"><i class="flaticon-medal"></i></span>
                                     <div class="tp-about-travel-shape-content">
-                                        <h4 class="tp-about-travel-year"> <span data-purecounter-duration="1"
-                                                data-purecounter-end="35" class="purecounter"></span>+</h4>
-                                        <span>Years of experience</span>
+                                        <h4 class="tp-about-travel-year"></h4>
+                                        <span>Guaranteed Results</span>
                                     </div>
                                 </div>
                             </div>
@@ -161,7 +160,7 @@
                                 class="tp-section-title-pre-family tp-section-title-pre-travel section-title tp-split-in-right mb-10">What
                                 We Provide Our Customers</span>
                             <h2 class="tp-section-title tp-section-title-dark-3 tp-split-in-left">We’re Giving all the
-                            Insurance Services to You</h2>
+                                Insurance Services to You</h2>
                         </div>
                     </div>
                 </div>
@@ -174,16 +173,18 @@
                                         <div class="row gx-0  align-items-center">
                                             <div class="col-lg-6 col-md-6 col-12">
                                                 <div class="tp-service-travel-thumb">
-                                                <img class="w-100" src="assets/img/service/travel/03.jpg"
-                                                alt="travel">
+                                                    <img class="w-100" src="assets/img/service/travel/03.jpg"
+                                                        alt="travel">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-12">
                                                 <div class="tp-service-travel-content">
-                                                    <span class="tp-service-travel-icon mb-30"><i class="flaticon-mortgage"></i></span>
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-mortgage"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
                                                             href="insurance-details.html">Home Insurance</a></h4>
-                                                    <p class="mb-25">Secure your home with flexible coverage and peace of mind.</p>
+                                                    <p class="mb-25">Secure your home with flexible coverage and peace
+                                                        of mind.</p>
                                                     <a href="insurance-details.html">Read More</a>
                                                 </div>
                                             </div>
@@ -201,10 +202,12 @@
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-12">
                                                 <div class="tp-service-travel-content">
-                                                    <span class="tp-service-travel-icon mb-30"><i class="flaticon-car"></i></span>
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-car"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
                                                             href="insurance-details.html">Car Insurance</a></h4>
-                                                    <p class="mb-25">Drive worry-free with our reliable and affordable plans.</p>
+                                                    <p class="mb-25">Drive worry-free with our reliable and affordable
+                                                        plans.</p>
                                                     <a href="insurance-details.html">Read More</a>
                                                 </div>
                                             </div>
@@ -216,14 +219,15 @@
                                         <div class="row gx-0  align-items-center">
                                             <div class="col-lg-6 col-md-6 col-12">
                                                 <div class="tp-service-travel-thumb">
-                                                    
-                                                        <img class="w-100" src="assets/img/service/travel/02.jpg"
+
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
                                                         alt="travel">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6 col-md-6 col-12">
                                                 <div class="tp-service-travel-content">
-                                                    <span class="tp-service-travel-icon mb-30"><i class="flaticon-risk-management"></i></span>
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-risk-management"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
                                                             href="insurance-details.html">Life Insurance</a></h4>
                                                     <p class="mb-25">Trip cancellation and interrup insurance plan
@@ -249,7 +253,97 @@
                                                             class="flaticon-health-insurance-2"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
                                                             href="insurance-details.html">Health Insurance</a></h4>
-                                                    <p class="mb-25">Stay covered with the best medical protection for you and your family.</p>
+                                                    <p class="mb-25">Stay covered with the best medical protection for
+                                                        you and your family.</p>
+                                                    <a href="insurance-details.html">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="insurance-details.html">Loan Insurance</a></h4>
+                                                    <p class="mb-25">Loan Protection Policy Claims ensure repayment
+                                                        coverage during unforeseen circumstances like illness.</p>
+                                                    <a href="insurance-details.html">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="insurance-details.html">Travel Insurance</a></h4>
+                                                    <p class="mb-25">Travel insurance provides coverage for trip cancellations, medical emergencies, and losses.</p>
+                                                    <a href="insurance-details.html">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="insurance-details.html">Motor Insurance</a></h4>
+                                                    <p class="mb-25">Motor insurance covers vehicle damage, theft, accidents, and liability protection.</p>
+                                                    <a href="insurance-details.html">Read More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="insurance-details.html">Short Settled Insurance</a></h4>
+                                                    <p class="mb-25">Short-settled insurance refers to a claim settled for less than expected.</p>
                                                     <a href="insurance-details.html">Read More</a>
                                                 </div>
                                             </div>
@@ -263,70 +357,81 @@
             </div>
         </div>
 
-          <!-- tp-about-area-start -->
-          <div id="about" class="tp-about-area tp-about-area-spacing pb-70 pt-135">
+        <!-- tp-about-area-start -->
+        <div id="about" class="tp-about-area tp-about-area-spacing pb-70 pt-135">
             <div class="container">
-               <div class="row">
-                  <div class="col-xl-6 col-lg-5 mb-70 wow fadeInLeft">
-                     <div class="tp-about-wrapper">
-                        <div class="tp-about-shape-2 tptranslateX2">
-                           <img src="assets/img/about/main/shape-1.png" alt="shape">
-                           <span>We Offer the Best Insurance Policies</span>
+                <div class="row">
+                    <div class="col-xl-6 col-lg-5 mb-70 wow fadeInLeft">
+                        <div class="tp-about-wrapper">
+                            <div class="tp-about-shape-2 tptranslateX2">
+                                <img src="assets/img/about/main/shape-1.png" alt="shape">
+                                <span>Your Perfect Insurance Solution Starts Here</span>
+                            </div>
+                            <img class="tp-about-shape-4 d-none d-xl-block p-absolute"
+                                src="assets/img/about/main/shape-2.png" alt="shape">
+                            <div class="tp-about-shape-9 d-none d-xl-block p-absolute"></div>
+                            <div class="tp-about-shape p-relative">
+                                <img class="tp-about-shape-10" src="assets/img/about/main/man.jpg" alt="man">
+                                <img class="tp-about-shape-3 upslide d-none d-xl-block p-absolute"
+                                    src="assets/img/about/main/shape-7.png" alt="shape">
+                                <img class="tp-about-shape-5 d-none d-xl-block upslide p-absolute"
+                                    src="assets/img/about/main/man-round.png" alt="round">
+                            </div>
+                            <img class="tp-about-shape-6 d-none d-xl-block" src="assets/img/about/main/shape-3.png"
+                                alt="shape">
+                            <div class="tp-about-shape-7 tptranslateX2 d-none d-md-block p-absolute">
+                                <img src="assets/img/about/main/shape-5.png" alt="shape">
+                                <span>Pure Life <br> Insurance</span>
+                            </div>
+                            <img class="tp-about-shape-8 d-none d-xl-block p-absolute"
+                                src="assets/img/about/main/shape-6.png" alt="shape">
                         </div>
-                        <img  class="tp-about-shape-4 d-none d-xl-block p-absolute" src="assets/img/about/main/shape-2.png" alt="shape">
-                        <div class="tp-about-shape-9 d-none d-xl-block p-absolute"></div>
-                        <div class="tp-about-shape p-relative">
-                           <img class="tp-about-shape-10" src="assets/img/about/main/man.jpg" alt="man">
-                           <img class="tp-about-shape-3 upslide d-none d-xl-block p-absolute" src="assets/img/about/main/shape-7.png" alt="shape">
-                           <img class="tp-about-shape-5 d-none d-xl-block upslide p-absolute" src="assets/img/about/main/man-round.png" alt="round">
+                    </div>
+                    <div class="col-xl-6 col-lg-7 mb-70">
+                        <div class="tp-about-content-wrapper">
+                            <div class="tp-about-section-title-wrapper mb-40">
+                                <span class="tp-section-title-pre tp-split-in-right mb-15">Why Choose Us?</span>
+                                <h2 class="tp-section-title tp-split-in-left mb-25">Why Choose Us?</h2>
+                                <p class="tp-section-title-para">At Claims Ok, we prioritize your peace of mind by
+                                    offering the best insurance policies tailored to your specific needs. Here’s why we
+                                    stand out:</p>
+                            </div>
+                            <div class="tp-about-info mb-55">
+                                <div class="tp-about-info-item d-flex mb-20">
+                                    <div class="tp-about-info-icon">
+                                        <span><i class="flaticon-refund"></i></span>
+                                    </div>
+                                    <div class="tp-about-info-content">
+                                        <h4 class="tp-about-info-title">Moneyback Gurantee</h4>
+                                        <p class="tp-about-info-para">We’re so confident in our services that we offer a
+                                            money-back guarantee, giving you peace of mind knowing you're making the
+                                            right choice.</p>
+                                    </div>
+                                </div>
+                                <div class="tp-about-info-item d-flex">
+                                    <div class="tp-about-info-icon">
+                                        <span><i class="flaticon-customer-care"></i></span>
+                                    </div>
+                                    <div class="tp-about-info-content">
+                                        <h4 class="tp-about-info-title">Expert Guidance</h4>
+                                        <p class="tp-about-info-para">Our team of professionals is here to guide you
+                                            every step of the way, providing expert advice and answering any questions
+                                            you may have.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tp-about-details d-flex">
+                                <div class="tp-about-btn mr-30 lineheight-1">
+                                    <a class="tp-btn tp-btn-green" href="contact.html">Let’s Get Started</a>
+                                </div>
+
+                            </div>
                         </div>
-                        <img class="tp-about-shape-6 d-none d-xl-block" src="assets/img/about/main/shape-3.png" alt="shape">
-                        <div class="tp-about-shape-7 tptranslateX2 d-none d-md-block p-absolute">
-                           <img src="assets/img/about/main/shape-5.png" alt="shape">
-                           <span>Pure Life <br> Insurance</span>
-                        </div>
-                        <img class="tp-about-shape-8 d-none d-xl-block p-absolute" src="assets/img/about/main/shape-6.png" alt="shape">
-                     </div>
-                  </div>
-                  <div class="col-xl-6 col-lg-7 mb-70">
-                     <div class="tp-about-content-wrapper">
-                        <div class="tp-about-section-title-wrapper mb-40">
-                           <span class="tp-section-title-pre tp-split-in-right mb-15">Know About Insurance</span>
-                           <h2 class="tp-section-title tp-split-in-left mb-25">We Provide the Best Insurance Policy</h2>
-                           <p class="tp-section-title-para">At Claims Ok, we are dedicated to providing you with the most reliable and comprehensive insurance policies, tailored to meet your unique needs and ensuring the best coverage at the most affordable rates.</p>
-                        </div>
-                        <div class="tp-about-info mb-55">
-                           <div class="tp-about-info-item d-flex mb-20">
-                              <div class="tp-about-info-icon">
-                                 <span><i class="flaticon-refund"></i></span>
-                              </div>
-                              <div class="tp-about-info-content">
-                                 <h4 class="tp-about-info-title">Moneyback Gurantee</h4>
-                                 <p class="tp-about-info-para">Duis aute irue dolor in reprehenderit<br> esse cillum dolore er nulla</p>
-                              </div>
-                           </div>
-                           <div class="tp-about-info-item d-flex">
-                              <div class="tp-about-info-icon">
-                                 <span><i class="flaticon-customer-care"></i></span>
-                              </div>
-                              <div class="tp-about-info-content">
-                                 <h4 class="tp-about-info-title">Technical Support</h4>
-                                 <p class="tp-about-info-para">Duis aute irue dolor in reprehenderit<br> esse cillum dolore er nulla</p>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="tp-about-details d-flex">
-                           <div class="tp-about-btn mr-30 lineheight-1">
-                              <a class="tp-btn tp-btn-green" href="contact.html">Let’s Get Started</a>
-                           </div>
-                           
-                        </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-         <!-- tp-about-area-end -->
+        </div>
+        <!-- tp-about-area-end -->
 
 
         <!-- value-ara-start -->
@@ -394,105 +499,135 @@
         </div>
         <!-- value-ara-end -->
 
-        
+
 
         <!-- testimonial-area-start -->
-      <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
-         <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
-            src="assets/img/testimonial/family/main-img.png" alt="main">
-         <div class="container">
-            <div class="row mb-15 d-flex align-items-end">
-               <div class="col-lg-6 mb-30">
-                  <div class="tp-testimonial-title-wrapper">
-                     <span
-                        class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
-                        Testimonials</span>
-                     <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say About
-                        Us</h2>
-                  </div>
-               </div>
-               <div class="col-lg-6 mb-45">
-                  <div class="tp-testimonial-navigation f-right">
-                     <span class="tp-testimonial-family-prev"><i class="fa-sharp fa-regular fa-arrow-left"></i></span>
-                     <span class="tp-testimonial-family-next"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                  </div>
-               </div>
+        <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
+            <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
+                src="assets/img/testimonial/family/main-img.png" alt="main">
+            <div class="container">
+                <div class="row mb-15 d-flex align-items-end">
+                    <div class="col-lg-6 mb-30">
+                        <div class="tp-testimonial-title-wrapper">
+                            <span
+                                class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
+                                Testimonials</span>
+                            <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say
+                                About
+                                Us</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 mb-45">
+                        <div class="tp-testimonial-navigation f-right">
+                            <span class="tp-testimonial-family-prev"><i
+                                    class="fa-sharp fa-regular fa-arrow-left"></i></span>
+                            <span class="tp-testimonial-family-next"><i
+                                    class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="swiper-container tp-testimonial-slide-family">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="tp-testimonial-wrapper-family">
+                                    <div class="d-flex align-items-center justify-content-between mb-20">
+                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                                src="https://img.icons8.com/ios-filled/50/user-male-circle.png"
+                                                alt="01">
+                                            <div class="tp-testimonial-user">
+                                                <h6 class="tp-testimonial-user-title">Sanya R.</h6>
+                                            </div>
+                                        </div>
+                                        <div class="tp-testimonial-quote">
+                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                                        </div>
+                                    </div>
+                                    <div class="tp-testimonial-content-wrapper">
+                                        <p class="tp-testimonial-para-family-2 mb-20">Absolutely fantastic experience!
+                                            The
+                                            service exceeded my expectations, and I feel more secure than ever. Highly
+                                            recommended!</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="tp-testimonial-wrapper-family">
+                                    <div class="d-flex align-items-center justify-content-between mb-20">
+                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                                src="https://img.icons8.com/ios-filled/50/user-male-circle.png"
+                                                alt="01">
+                                            <div class="tp-testimonial-user">
+                                                <h6 class="tp-testimonial-user-title">Vikram K.</h6>
+                                            </div>
+                                        </div>
+                                        <div class="tp-testimonial-quote">
+                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                                        </div>
+                                    </div>
+                                    <div class="tp-testimonial-content-wrapper">
+
+                                        <p class="tp-testimonial-para-family-2 mb-20">From consultation to claim
+                                            settlement,
+                                            everything was smooth and professional. Highly recommend their services!</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="tp-testimonial-wrapper-family">
+                                    <div class="d-flex align-items-center justify-content-between mb-20">
+                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                                src="https://img.icons8.com/ios-filled/50/user-male-circle.png"
+                                                alt="01">
+                                            <div class="tp-testimonial-user">
+                                                <h6 class="tp-testimonial-user-title">Varun Singh</h6>
+                                            </div>
+                                        </div>
+                                        <div class="tp-testimonial-quote">
+                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                                        </div>
+                                    </div>
+                                    <div class="tp-testimonial-content-wrapper">
+
+                                        <p class="tp-testimonial-para-family-2 mb-20">I never knew getting insured could
+                                            be this
+                                            easy! Great coverage options and excellent customer service</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="row">
-               <div class="swiper-container tp-testimonial-slide-family">
-                  <div class="swiper-wrapper">
-                     <div class="swiper-slide">
-                        <div class="tp-testimonial-wrapper-family">
-                           <div class="d-flex align-items-center justify-content-between mb-20">
-                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                    src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="01">
-                                 <div class="tp-testimonial-user">
-                                    <h6 class="tp-testimonial-user-title">Sanya R.</h6>
-                                 </div>
-                              </div>
-                              <div class="tp-testimonial-quote">
-                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                              </div>
-                           </div>
-                           <div class="tp-testimonial-content-wrapper">
-                              <p class="tp-testimonial-para-family-2 mb-20">Absolutely fantastic experience! The
-                                 service exceeded my expectations, and I feel more secure than ever. Highly
-                                 recommended!</p>
-
-                           </div>
+        </div>
+        <!-- testimonial-area-end -->
+        <!-- tp-blog-area-end -->
+        <div class="tp-cta-area tp-cta-family-spacing bg-position p-relative pb-70 pt-135"
+            data-background="assets/img/cta/family/cta-bg.jpg">
+            <img class="tp-cta-shape-family d-none d-xxl-block p-absolute" src="assets/img/cta/family/02.png" alt="cta">
+            <img class="tp-cta-shape-family-2 d-none d-xl-block p-absolute" src="assets/img/cta/family/card.png"
+                alt="cta">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="tp-cta-title-family-wrapper text-center">
+                            <h2 class="tp-cta-title-family section-title tp-split-in-right mb-40">Have questions? <br>
+                                Let’s
+                                secure your future together!</h2>
+                            <div class="lineheight-1 tp-cta-family-btn">
+                                <a class="tp-btn tp-btn-yellow" href="contact.html">Contact Us</a>
+                            </div>
                         </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="tp-testimonial-wrapper-family">
-                           <div class="d-flex align-items-center justify-content-between mb-20">
-                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                    src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="01">
-                                 <div class="tp-testimonial-user">
-                                    <h6 class="tp-testimonial-user-title">Vikram K.</h6>
-                                 </div>
-                              </div>
-                              <div class="tp-testimonial-quote">
-                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                              </div>
-                           </div>
-                           <div class="tp-testimonial-content-wrapper">
-
-                              <p class="tp-testimonial-para-family-2 mb-20">From consultation to claim settlement,
-                                 everything was smooth and professional. Highly recommend their services!</p>
-
-                           </div>
-                        </div>
-                     </div>
-                     <div class="swiper-slide">
-                        <div class="tp-testimonial-wrapper-family">
-                           <div class="d-flex align-items-center justify-content-between mb-20">
-                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                    src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="01">
-                                 <div class="tp-testimonial-user">
-                                    <h6 class="tp-testimonial-user-title">Varun Singh</h6>
-                                 </div>
-                              </div>
-                              <div class="tp-testimonial-quote">
-                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                              </div>
-                           </div>
-                           <div class="tp-testimonial-content-wrapper">
-
-                              <p class="tp-testimonial-para-family-2 mb-20">I never knew getting insured could be this
-                                 easy! Great coverage options and excellent customer service</p>
-
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-      <!-- testimonial-area-end -->
+        </div>
     </main>
     <!-- footer-area-start -->
     <?php
