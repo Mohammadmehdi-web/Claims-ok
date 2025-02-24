@@ -501,112 +501,64 @@
 
 
 
-        <!-- testimonial-area-start -->
-        <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
-            <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
-                src="assets/img/testimonial/family/main-img.png" alt="main">
-            <div class="container">
-                <div class="row mb-15 d-flex align-items-end">
-                    <div class="col-lg-6 mb-30">
-                        <div class="tp-testimonial-title-wrapper">
-                            <span
-                                class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
-                                Testimonials</span>
-                            <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say
-                                About
-                                Us</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 mb-45">
-                        <div class="tp-testimonial-navigation f-right">
-                            <span class="tp-testimonial-family-prev"><i
-                                    class="fa-sharp fa-regular fa-arrow-left"></i></span>
-                            <span class="tp-testimonial-family-next"><i
-                                    class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="swiper-container tp-testimonial-slide-family">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="tp-testimonial-wrapper-family">
-                                    <div class="d-flex align-items-center justify-content-between mb-20">
-                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                                src="https://img.icons8.com/ios-filled/50/user-male-circle.png"
-                                                alt="01">
-                                            <div class="tp-testimonial-user">
-                                                <h6 class="tp-testimonial-user-title">Sanya R.</h6>
-                                            </div>
-                                        </div>
-                                        <div class="tp-testimonial-quote">
-                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                                        </div>
-                                    </div>
-                                    <div class="tp-testimonial-content-wrapper">
-                                        <p class="tp-testimonial-para-family-2 mb-20">Absolutely fantastic experience!
-                                            The
-                                            service exceeded my expectations, and I feel more secure than ever. Highly
-                                            recommended!</p>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="tp-testimonial-wrapper-family">
-                                    <div class="d-flex align-items-center justify-content-between mb-20">
-                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                                src="https://img.icons8.com/ios-filled/50/user-male-circle.png"
-                                                alt="01">
-                                            <div class="tp-testimonial-user">
-                                                <h6 class="tp-testimonial-user-title">Vikram K.</h6>
-                                            </div>
-                                        </div>
-                                        <div class="tp-testimonial-quote">
-                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                                        </div>
-                                    </div>
-                                    <div class="tp-testimonial-content-wrapper">
-
-                                        <p class="tp-testimonial-para-family-2 mb-20">From consultation to claim
-                                            settlement,
-                                            everything was smooth and professional. Highly recommend their services!</p>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="tp-testimonial-wrapper-family">
-                                    <div class="d-flex align-items-center justify-content-between mb-20">
-                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                                src="https://img.icons8.com/ios-filled/50/user-male-circle.png"
-                                                alt="01">
-                                            <div class="tp-testimonial-user">
-                                                <h6 class="tp-testimonial-user-title">Varun Singh</h6>
-                                            </div>
-                                        </div>
-                                        <div class="tp-testimonial-quote">
-                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                                        </div>
-                                    </div>
-                                    <div class="tp-testimonial-content-wrapper">
-
-                                        <p class="tp-testimonial-para-family-2 mb-20">I never knew getting insured could
-                                            be this
-                                            easy! Great coverage options and excellent customer service</p>
-
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+       <!-- testimonial-area-start -->
+      <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
+         <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
+            src="assets/img/testimonial/family/main-img.png" alt="main">
+         <div class="container">
+            <div class="row mb-15 d-flex align-items-end">
+               <div class="col-lg-6 mb-30">
+                  <div class="tp-testimonial-title-wrapper">
+                     <span
+                        class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
+                        Testimonials</span>
+                     <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say About
+                        Us</h2>
+                  </div>
+               </div>
+               <div class="col-lg-6 mb-45">
+                  <div class="tp-testimonial-navigation f-right">
+                     <span class="tp-testimonial-family-prev"><i class="fa-sharp fa-regular fa-arrow-left"></i></span>
+                     <span class="tp-testimonial-family-next"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                  </div>
+               </div>
             </div>
-        </div>
-        <!-- testimonial-area-end -->
+            <div class="row">
+               <div class="swiper-container tp-testimonial-slide-family">
+                  <div class="swiper-wrapper">
+                     <?php
+                     include('db_con.php');
+                     $result = $con->query("SELECT name, review, designation, image_path FROM add_testimonial");
+                     while ($row = $result->fetch_assoc()):
+                     ?>
+                     <div class="swiper-slide">
+                        <div class="tp-testimonial-wrapper-family">
+                           <div class="d-flex align-items-center justify-content-between mb-20">
+                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                    src="admin/<?php echo $row['image_path']; ?>" alt="01">
+                                 <div class="tp-testimonial-user">
+                                    <h6 class="tp-testimonial-user-title"><?php echo $row['name']; ?></h6>
+                                 </div>
+                              </div>
+                              <div class="tp-testimonial-quote">
+                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                              </div>
+                           </div>
+                           <div class="tp-testimonial-content-wrapper">
+                              <p class="tp-testimonial-para-family-2 mb-20"><?php echo $row['review']; ?></p>
+
+                           </div>
+                        </div>
+                     </div>
+                     <?php endwhile; ?>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- testimonial-area-end -->
+       
         <!-- tp-blog-area-end -->
         <div class="tp-cta-area tp-cta-family-spacing bg-position p-relative pb-70 pt-135"
             data-background="assets/img/cta/family/cta-bg.jpg">

@@ -2438,8 +2438,8 @@ div.demo img {
 /*----------------------------------------*/
 .nice-select {
   -webkit-tap-highlight-color: transparent;
-  background-color: #fff;
-  border: solid 1px #e6e6e6;
+  background-color: #fbf7ec;
+  border: solid 1px #fbf7ec;
   box-sizing: border-box;
   clear: both;
   cursor: pointer;

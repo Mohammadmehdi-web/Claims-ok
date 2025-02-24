@@ -3,7 +3,7 @@
 	$servername="localhost";
 	$username="root";
 	$password="";
-    $database = "clims-ok_db";
+    $database = "claims-ok_db";
 
     $con = new mysqli($servername, $username, $password, $database);
 
