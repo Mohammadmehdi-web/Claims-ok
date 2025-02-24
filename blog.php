@@ -168,8 +168,8 @@ if (isset($_GET['page_url'])) {
                <button class="close-btn"><i class="fal fa-times"></i></button>
             </div>
             <div class="tpoffcanvas__logo">
-               <a href="index.html">
-                  <img src="assets/img/logo/logo.svg" alt="logo">
+               <a href="index.php">
+                  <img src="..assets/img/logo/logo.svg" alt="logo">
                </a>
             </div>
             <div class="tp-main-menu-mobile d-xl-none"></div>
