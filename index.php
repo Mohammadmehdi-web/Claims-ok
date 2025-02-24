@@ -587,7 +587,7 @@
                                                         </select>
                                                     </div>
 
-                                                    <div class="tp-contact-input mb-20">
+                                                    <div class="tp-contact-input mb-20 mt-5">
                                                         <textarea type="text" name="message" id="message" placeholder="Your Message Here"></textarea>
                                                     </div>
 

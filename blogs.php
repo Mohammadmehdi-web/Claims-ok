@@ -66,139 +66,64 @@
          <!-- breadcam-area-end -->
 
          <!-- tp-blog-area-start -->
-         <div class="tp-blog-area pt-140 pb-100">
+         <div class="tp-blog-area pt-130 pb-100">
             <div class="container">
-               <div class="row">
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".2s">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/01.jpg" alt="blog">
-                           </a>
+                <div class="row">
+                    <div class="col-12 mb-40">
+                        <div class="tp-blog-title-wrapper text-center">
+                            <span class="tp-section-title-pre-family section-title tp-split-in-right">Read Our
+                                Blog</span>
+                            <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">Our Blogs News &
+                                Articles</h2>
                         </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">health</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Wise Spending Habits, 13 Tips for Maximizing Your Money</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
+                    </div>
+                    <?php
+                        include('db_con.php');
+
+                            $sql = "SELECT blogs.blog_heading AS heading, 
+                                        blogs_images.image, 
+                                        blogs.blog_desc_first, 
+                                        blogs.blog_url,
+                                        blogs.created_at
+                                FROM blogs
+                                INNER JOIN blogs_images ON blogs.id = blogs_images.blog_id
+                                GROUP BY blogs.id LIMIT 2"; 
+
+                            $result = $con->query($sql);
+
+                            while ($row = $result->fetch_assoc()) {
+                            $heading = $row['heading'];
+                            $image = $row['image'];
+                            $blog_desc_first = $row['blog_desc_first'];
+                            $blog_url = $row['blog_url'];
+                            $created_at = $row['created_at'];
+                            $formatted_date = date("j F Y", strtotime($created_at));
+
+                    ?>
+                    <div class="col-xl-4 col-lg-6 col-md-6 mb-35 wow fadeInUp" data-wow-duration=".9s"
+                        data-wow-delay=".2s">
+                        <div class="tp-blog-wrapper tp-blog-wrapper-family">
+                            <div class="tp-blog-thumb mb-20">
+                                <a class="tp-blog-thumb-img" href="blog/<?php echo $blog_url; ?>">
+                                    <img class="w-100" src="blog/blog_uploads/<?php echo $image; ?>" alt="blog">
+                                </a>
+                            </div>
+                            <div class="tp-blog-content-family">
+
+                                <h3 class="tp-blog-title tp-blog-title-family mb-30">
+                                    <a href="blog/<?php echo $blog_url; ?>"><?php echo $heading; ?></a>
+                                </h3>
+                                <div class="tp-blog-date-family">
+                                    <span><i class="fa-light fa-calendar"></i><?php echo $formatted_date; ?></span>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/02.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">insurance</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Everyday Accounts to Keep Track of Your Finances</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".4s">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/03.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">Home</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Save With Our Lowest Ever Four Fixed Rate Home Loan</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".2s">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/04.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">health</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">13 Strategies for Maximizing Your Finances</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/05.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">insurance</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Managing Your Everyday Accounts Your Finances</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".4s">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/06.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">Home</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Our Lowest-Ever Four Fixed Rate Home Loan Offer</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                    <?php } ?>
+                </div>
             </div>
-         </div>
-         <!-- tp-blog-area-end -->
+        </div>
+        <!-- tp-blog-area-end -->
 
          <!-- tp-cta-area-start -->
          <div class="tp-cta-area bg-position p-relative" data-background="assets/img/cta/home/03.jpg">

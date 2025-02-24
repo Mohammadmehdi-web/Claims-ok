@@ -20,6 +20,39 @@
     <link rel="stylesheet" href="assets/css/flaticon.css">
     <link rel="stylesheet" href="assets/css/spacing.css">
     <link rel="stylesheet" href="assets/css/main.css">
+    <style>
+    .nice-select {
+        -webkit-tap-highlight-color: transparent;
+        background-color: #fbf7ec;
+        border: solid 1px #fbf7ec;
+        box-sizing: border-box;
+        clear: both;
+        cursor: pointer;
+        display: block;
+        float: left;
+        font-family: inherit;
+        font-size: 14px;
+        font-weight: normal;
+        height: 42px;
+        line-height: 58px;
+        outline: none;
+        padding-left: 30px;
+        padding-right: 30px;
+        position: relative;
+        text-align: left !important;
+        -webkit-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        white-space: nowrap;
+        width: auto;
+        width: 100%;
+        height: 60px;
+        color: var(--tp-heading-4);
+    }
+    </style>
 </head>
 
 <body>
@@ -138,8 +171,8 @@
                                             <input type="number" placeholder="Enter your Phone Number" name="phone">
                                         </div>
                                     </div>
-                                    <div class="col-lg-6 mb-20">
-                                        <div class="tp-contact-single-textarea">
+                                    <div class="col-lg-6 mb-5">
+                                        <div class="tp-contact-single-textarea mb-5">
                                             <select name="type" id="type">
                                                 <option value="">--Select Query Type--</option>
                                                 <option value="general">General Inquiry</option>
@@ -147,12 +180,12 @@
                                                 <option value="claim_support">Claim Support</option>
                                                 <option value="others">Others</option>
                                             </select>
-                                           
+
                                         </div>
                                     </div>
                                     <div class="col-lg-12 mb-10">
                                         <div class="tp-contact-single-textarea">
-                                            
+
                                             <textarea type="text" placeholder="Write your message"
                                                 name="message"></textarea>
                                         </div>
@@ -209,50 +242,50 @@
     <script src="assets/js/ajax-form.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script>
-$(document).ready(function() {
-    $('#enquiryForm').submit(function(e) {
-        e.preventDefault();
+    <script>
+    $(document).ready(function() {
+        $('#enquiryForm').submit(function(e) {
+            e.preventDefault();
 
-        var formData = $(this).serialize();
+            var formData = $(this).serialize();
 
-        $.ajax({
-            url: 'save_contact.php', 
-            type: 'POST',
-            data: formData,
-            success: function(response) {
-                if (response == 'success') {
-                    
-                    Swal.fire({
-                        icon: 'success',
-                        title: 'Message Sent!',
-                        text: 'Your message has been sent successfully.',
-                    }).then(function() {
-                        
-                        $('#enquiryForm')[0]
-                    .reset(); 
-                    });
-                } else {
-                    
+            $.ajax({
+                url: 'save_contact.php',
+                type: 'POST',
+                data: formData,
+                success: function(response) {
+                    if (response == 'success') {
+
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Message Sent!',
+                            text: 'Your message has been sent successfully.',
+                        }).then(function() {
+
+                            $('#enquiryForm')[0]
+                                .reset();
+                        });
+                    } else {
+
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Oops...',
+                            text: 'Something went wrong. Please try again later.',
+                        });
+                    }
+                },
+                error: function() {
+
                     Swal.fire({
                         icon: 'error',
                         title: 'Oops...',
                         text: 'Something went wrong. Please try again later.',
                     });
                 }
-            },
-            error: function() {
-                
-                Swal.fire({
-                    icon: 'error',
-                    title: 'Oops...',
-                    text: 'Something went wrong. Please try again later.',
-                });
-            }
+            });
         });
     });
-});
-</script>
+    </script>
 </body>
 
 </html>
