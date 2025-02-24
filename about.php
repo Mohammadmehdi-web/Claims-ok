@@ -67,68 +67,72 @@
          <!-- breadcam-area-end -->
 
          <!-- tp-about-area-start -->
-         <div class="tp-about-area fix pb-60 pt-135">
+         <div id="about" class="tp-about-area pt-140 pb-100 fix">
             <div class="container">
                <div class="row">
-                  <div class="col-xl-6 col-lg-5 mb-70 wow fadeInLeft"  data-wow-duration=".9s" data-wow-delay=".3s">
-                     <div class="tp-about-wrapper">
-                        <div class="tp-about-shape-2 tptranslateX2">
-                           <img src="assets/img/about/main/shape-1.png" alt="shape">
-                           <span>Helth Insurance</span>
+                  <div class="col-xl-6 col-lg-5 mb-40  wow fadeInLeft" data-wow-duration=".9s" data-wow-delay=".2s">
+                     <div class="tp-about-travel-left p-relative">
+                        <div class="tp-about-travel-thumb">
+                           <img class="tp-about-travel-img-1 w-100" src="assets/img/about/travel/02.jpg" alt="travel">
+                           <img class="tp-about-travel-img w-100" src="assets/img/about/travel/01.jpg" alt="travel">
                         </div>
-                        <img  class="tp-about-shape-4 d-none d-xl-block p-absolute" src="assets/img/about/main/shape-2.png" alt="shape">
-                        <div class="tp-about-shape-9 d-none d-xl-block p-absolute"></div>
-                        <div class="tp-about-shape p-relative">
-                           <img class="tp-about-shape-10" src="assets/img/about/main/man.jpg" alt="man">
-                           <img class="tp-about-shape-3 upslide d-none d-xl-block p-absolute" src="assets/img/about/main/shape-7.png" alt="shape">
-                           <img class="tp-about-shape-5 d-none d-xl-block upslide p-absolute" src="assets/img/about/main/man-round.png" alt="round">
+                        <div class="tp-about-travel-shape p-absolute tptranslateY2">
+                           <div class="d-flex align-items-center">
+                              <span class="tp-about-travel-icon"><img src="assets/img/about/travel/qoute.svg" alt="qoute"></span>
+                              <p>After using insurance<br> our life is so much <br> happier</p>
+                           </div>
                         </div>
-                        <img class="tp-about-shape-6 d-none d-xl-block" src="assets/img/about/main/shape-3.png" alt="shape">
-                        <div class="tp-about-shape-7 tptranslateX2 d-none d-sm-block p-absolute">
-                           <img src="assets/img/about/main/shape-5.png" alt="shape">
-                           <span>Pure Life <br> Insurance</span>
+                        <div class="tp-about-travel-shape-2 p-absolute tptranslateY2 ">
+                           <div class="p-relative z-index-1 d-flex align-items-center">
+                              <img class="tp-about-travel-shape-img p-absolute" src="assets/img/about/travel/01.png" alt="travel">
+                              <span class="tp-about-travel-icon2"><i class="flaticon-medal"></i></span>
+                              <div class="tp-about-travel-shape-content">
+                                 <h4 class="tp-about-travel-year"> <span data-purecounter-duration="1" data-purecounter-end="35"  class="purecounter"></span>+</h4>
+                                 <span>Years of experience</span>
+                              </div>
+                           </div>
                         </div>
-                        <img class="tp-about-shape-8 d-none d-xl-block p-absolute" src="assets/img/about/main/shape-6.png" alt="shape">
                      </div>
                   </div>
-                  <div class="col-xl-6 col-lg-7 mb-70 wow fadeInRight" data-wow-duration=".9s" data-wow-delay=".3s">
-                     <div class="tp-about-content-wrapper">
-                        <div class="tp-about-section-title-wrapper mb-40">
-                           <span class="tp-section-title-pre-about section-title tp-split-in-right mb-15">Know About Insurai</span>
-                           <h2 class="tp-section-title mb-25 tp-split-in-left">We Provide the Best Insurance Policy</h2>
-                           <p class="tp-section-title-para">Our insurance platform is protected with the latest encrypt technolog and multi-factor authentication giving</p>
+                  <div class="col-xl-6 col-lg-7 mb-40 wow fadeInRight" data-wow-duration=".9s" data-wow-delay=".2s">
+                     <div class="tp-about-travel-content">
+                        <div class="tp-about-family-title mb-40">
+                           <span class="tp-section-title-pre-family tp-section-title-pre-travel section-title  tp-split-in-right mb-10">Know About Insurai</span>
+                           <h2 class="tp-section-title tp-section-title-dark-3 tp-split-in-left">We're Reinventing Travel Insurance so You Can Save up to 25%! </h2>
                         </div>
-                        <div class="tp-about-info mb-55">
-                           <div class="tp-about-info-item d-flex mb-20">
-                              <div class="tp-about-info-icon">
-                                 <span><i class="flaticon-refund"></i></span>
-                              </div>
-                              <div class="tp-about-info-content">
-                                 <h4 class="tp-about-info-title">Moneyback Gurantee</h4>
-                                 <p class="tp-about-info-para">Duis aute irue dolor in reprehenderit<br> esse cillum dolore er nulla</p>
-                              </div>
-                           </div>
-                           <div class="tp-about-info-item d-flex">
-                              <div class="tp-about-info-icon">
-                                 <span><i class="flaticon-customer-care"></i></span>
-                              </div>
-                              <div class="tp-about-info-content">
-                                 <h4 class="tp-about-info-title">Technical Support</h4>
-                                 <p class="tp-about-info-para">Duis aute irue dolor in reprehenderit<br> esse cillum dolore er nulla</p>
-                              </div>
-                           </div>
+                        <div class="tp-about-list tp-about-travel-list">
+                           <ul>
+                              <li>
+                                 <span><i class="flaticon-checkmark"></i></span>
+                                 <p>We are trusted by more than 6000 ver<br>
+                                    happy clients for services.</p>
+                              </li>
+                              <li>
+                                 <span><i class="flaticon-checkmark"></i></span>
+                                 <p>A travel insurance means which it sets<br>
+                                    out to achieve it’s diserd ends.</p>
+                              </li>
+                           </ul>
                         </div>
-                        <div class="tp-about-details d-flex">
-                           <div class="tp-about-btn mr-30 lineheight-1">
-                              <a class="tp-btn tp-btn-green" href="contact.html">Let’s Get Started</a>
-                           </div>
-                           <div class="tp-about-avatar d-flex align-items-center">
-                              <div class="tp-about-avatar-thumb">
-                                 <img src="assets/img/about/main/dymond.png" alt="dymond">
+                        <div class="tp-about-progress-wrapper fix mb-50">
+                           <div class="tp-about-progress-title tp-about-progress-travel">Limits of Balance</div>
+                           <div class="tp-about-progress tp-about-travel-progress">
+                                 <div class="progress-bar wow slideInLeft" data-wow-duration="2s" data-wow-delay=".1s" role="progressbar" style="width:80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                                 <span class="tp-about-counter">80%</span>
                               </div>
-                              <div class="tp-about-avatar-content">
-                                 <h5>1.80m</h5>
-                                 <p>Total Active User</p>
+                          </div>
+                        </div>
+                        <div class="tp-about-contact-wrapper d-flex align-items-center">
+                           <div class="tp-about-contact-btn-family lineheight-1 mr-50">
+                              <a class="tp-btn tp-btn-care-2" href="about.html">Discover More</a>
+                           </div>
+                           <div class="tp-about-info-family d-flex align-items-center">
+                              <div class="tp-about-info-thumb mr-20">
+                                 <img src="assets/img/about/family/03.png" alt="about">
+                              </div>
+                              <div class="tp-about-info-content-family">
+                                 <span>Call to Expert</span>
+                                 <a href="tel:8005554433">800 555 44 33</a>
                               </div>
                            </div>
                         </div>
