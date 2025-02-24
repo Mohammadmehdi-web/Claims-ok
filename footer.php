@@ -1,128 +1,102 @@
 <footer>
-         <div class="tp-footer-area bg-position pt-130 pb-40" data-background="assets/img/footer/footerbg.jpg">
-            <div class="container">
-               <div class="row">
-                  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-70">
-                     <div class="tp-footer-widget tp-footer-col-1">
-                        <div class="tp-footer-logo mb-35">
-                           <a href="index.html"><img src="assets/img/logo/logo-2.svg" alt="logo"></a>
-                        </div>
-                        <div class="tp-footer-widget-content mb-35">
-                           <p>We work with a passion of  taking challenges most creating new ones </p>
-                        </div>
-                        <div class="tp-footer-widget-social">
+      <div class="tp-footer-area tp-dark-bg pt-120 pb-15">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
+                  <div class="tp-footer-widget">
+                     <div class="tp-footer-logo mb-30">
+                        <a href="index.html"><img src="assets/img/logo/logo-white.svg" alt="logo"></a>
+                     </div>
+                     <div class="tp-footer-widget-social-family tp-footer-widget-social-home">
+                        <p class="text-justify">Providing trusted insurance solutions to secure your future with
+                           confidence and peace of mind.</p>
+                        <a class="tp-footer-widget-social-phone mb-25" href="tel:(+00)67834598568">+91-999999 99999</a>
+                        <div class="tp-footer-widget-social-info tp-footer-widget-social-info-home">
                            <a href="#"><i class="fa-brands fa-facebook"></i></a>
                            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                           <a href="#"><i class="fa-brands fa-twitter"></i></a>
-                           <a href="#"><i class="fa-brands fa-pinterest"></i></a>
+                           <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                           <a href="#"><i class="fa-brands fa-youtube"></i></a>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-70">
-                     <div class="tp-footer-widget tp-footer-col-2">
-                        <h4 class="tp-footer-widget-title mb-30">Usefull links</h4>
-                        <div class="tp-footer-widget-content">
-                           <div class="row">
-                              <div class="col-lg-6 col-md-6 col-sm-6">
-                                 <div class="tp-footer-widget-link">
-                                    <ul>
-                                       <li>
-                                          <a href="#">About us</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">News</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Our team</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Contact us</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Careers</a>
-                                       </li>
-                                    </ul>
-                                 </div>
-                              </div>
-                              <div class="col-lg-6 col-md-6 col-sm-6">
-                                 <div class="tp-footer-widget-link">
-                                    <ul>
-                                       <li>
-                                          <a href="#">FAQ’s</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Service</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Project</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Privacy</a>
-                                       </li>
-                                       <li>
-                                          <a href="#">Support</a>
-                                       </li>
-                                    </ul>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
+               </div>
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
+                  <div class="tp-footer-widget-family tp-footer-family-col-2">
+                     <h4 class="tp-footer-widget-title-family tp-footer-widget-title-home mb-20">Information</h4>
+                     <div class="tp-footer-widget-link-family tp-footer-widget-link-home">
+                        <ul>
+                           <li>
+                              <a href="#">Home</a>
+                           </li>
+                           <li>
+                              <a href="#">About US</a>
+                           </li>
+                           <li>
+                              <a href="#">Blogs</a>
+                           </li>
+                           <li>
+                              <a href="#">Contact</a>
+                           </li>
+                        </ul>
                      </div>
                   </div>
-                  <div class="col-xl-3 col-lg-4 col-md-6 mb-70  col-sm-6">
-                     <div class="tp-footer-widget tp-footer-col-3">
-                        <h4 class="tp-footer-widget-title mb-40">Contact info</h4>
-                        <div class="tp-footer-widget-content">
-                           <div class="tp-footer-active-expart mb-20">
-                              <div class="tp-footer-active-img">
-                                 <img src="assets/img/footer/author.png" alt="footer">
-                              </div>
-                              <div class="tp-footer-active-content">
-                                 <span class="tp-footer-active-name">Chat with an expert</span>
-                                 <h6 class="tp-footer-active">Active now <span></span></h6>
-                              </div>
-                           </div>
-                           <div class="tp-footer-widget-info">
-                              <a href="tel:+999212354685894"><i class="flaticon-telephone"></i> + 999 2123 5468 5894</a>
-                              <a href="mailto:insuraihelp@mail.com"><i class="fa-sharp fa-regular fa-envelope"></i> insuraihelp@mail.com</a>
-                              <a href="https://www.google.com/maps/@41.6758525,-86.2531698,18.17z"><i class="fa-sharp fa-regular fa-location-dot"></i> 2307 Beverley Rd brook<br> New York 11226 U.S.</a>
-                           </div>
-                        </div>
+               </div>
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
+                  <div class="tp-footer-widget-family tp-footer-family-col-3">
+                     <h4 class="tp-footer-widget-title-family tp-footer-widget-title-home mb-20">Insurance</h4>
+                     <div class="tp-footer-widget-link-family tp-footer-widget-link-home">
+                        <ul>
+                           <li>
+                              <a href="#">Home Insurance</a>
+                           </li>
+                           <li>
+                              <a href="#"> Car Insurance</a>
+                           </li>
+                           <li>
+                              <a href="#">Health Insurance</a>
+                           </li>
+                           <li>
+                              <a href="#">Life Insurance</a>
+                           </li>
+                        </ul>
                      </div>
                   </div>
-                  <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-70">
-                     <div class="tp-footer-widget tp-footer-col-4">
-                        <h4 class="tp-footer-widget-title mb-30">Subscribe</h4>
-                        <div class="tp-footer-widget-content">
-                           <p class="mb-20">Get Special Offers. We Never Spam.</p>
-                        </div>
-                        <div class="tp-footer-widget-form">
-                           <form action="#">
-                              <div class="tp-footer-input">
-                                 <label for="email"><i class="fa-light fa-envelope"></i></label>
-                                 <input type="text" name="email" id="email" placeholder="Your Email">
-                                 <button  class="tp-footer-input-icon" type="submit"><i class="fa-sharp fa-regular fa-arrow-right"></i></button>
-                              </div>
-                              <div class="tp-footer-input-2">
-                                 <input type="checkbox" name="checkbox" id="checkbox">
-                                 <label for="checkbox">I agree with your terms & condition</label>
-                              </div>
-                           </form>
-                        </div>
+               </div>
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-9 mb-50">
+                  <div class="tp-footer-widget-social-family tp-footer-family-col-4">
+                     <h4 class="tp-footer-widget-title-family tp-footer-widget-title-home mb-25">Claims Assistance</h4>
+                     <div class="tp-footer-widget-link-family tp-footer-widget-link-home">
+                        <ul>
+                           <li>
+                              <a href="#">Loan protection policy Claims</a>
+                           </li>
+                           <li>
+                              <a href="#"> Travel Insurance Claims</a>
+                           </li>
+                           <li>
+                              <a href="#">Motor Insurance Claims</a>
+                           </li>
+                           <li>
+                              <a href="#">Short Settled Insurance Claims</a>
+                           </li>
+                        </ul>
                      </div>
                   </div>
                </div>
             </div>
          </div>
-         <div class="tp-footer-copyright">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-footer-copyright-text text-center">
-                        <p>Full Copyright & Design By <a href="#"> @Theme pure</a> – <span id="year"></span></p>
-                     </div>
+      </div>
+      <div class="tp-footer-copyright tp-footer-copyright-home">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="tp-footer-copyright-text tp-footer-copyright-text-home text-center">
+                     <p>
+                        <a href="#">© <span id="year"></span> Claims Ok</a> – Designed & Developed by <a href="https://auctech.in" target="_blank" class="text-warning">Auctech MarCom</a>
+                    </p>
                   </div>
                </div>
             </div>
          </div>
-      </footer>
+      </div>
+   </footer>
