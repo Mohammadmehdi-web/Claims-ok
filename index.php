@@ -2,876 +2,109 @@
 <html class="no-js" lang="zxx">
 
 <head>
-      <meta charset="utf-8">
-      <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Claims-OK</title>
-      <meta name="description" content="">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-       
-      <!-- Place favicon.ico in the root directory -->
-      <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <title>Claims Ok</title>
+   <meta name="description" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <!-- CSS here -->
-      <link rel="stylesheet" href="assets/css/bootstrap.css">
-      <link rel="stylesheet" href="assets/css/animate.css">
-      <link rel="stylesheet" href="assets/css/swiper-bundle.css">
-      <link rel="stylesheet" href="assets/css/magnific-popup.css">
-      <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
-      <link rel="stylesheet" href="assets/css/ion.rangeSlider.min.css">
-      <link rel="stylesheet" href="assets/css/flaticon.css">
-      <link rel="stylesheet" href="assets/css/spacing.css">
-      <link rel="stylesheet" href="assets/css/main.css">
-   </head>
-   <body>
-    
-      <!-- back-to-top -->
-      <div class="back-to-top-wrapper">
-         <button id="back_to_top" type="button" class="back-to-top-btn">
-            <svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
-               <path d="M11 6L6 1L1 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            </svg>               
-         </button>
+   <!-- Place favicon.ico in the root directory -->
+   <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/favicon.png">
+
+   <!-- CSS here -->
+   <link rel="stylesheet" href="assets/css/bootstrap.css">
+   <link rel="stylesheet" href="assets/css/animate.css">
+   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+   <link rel="stylesheet" href="assets/css/magnific-popup.css">
+   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+   <link rel="stylesheet" href="assets/css/ion.rangeSlider.min.css">
+   <link rel="stylesheet" href="assets/css/flaticon.css">
+   <link rel="stylesheet" href="assets/css/spacing.css">
+   <link rel="stylesheet" href="assets/css/main.css">
+   <!-- Font Awesome CDN -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
+<body>
+
+   <!-- back-to-top -->
+   <div class="back-to-top-wrapper">
+      <button id="back_to_top" type="button" class="back-to-top-btn">
+         <svg width="12" height="7" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M11 6L6 1L1 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+               stroke-linejoin="round" />
+         </svg>
+      </button>
+   </div>
+
+   <!-- Preloader Start -->
+   <div class="preloader">
+      <div class="loading-container">
+         <div class="loading"></div>
+         <div id="loading-icon"><img src="assets/img/logo/loader/loader.png" alt=""></div>
       </div>
+   </div>
+   <!-- Preloader End -->
+   <?php
+      include('header.php');
+   ?>
 
-      <!-- Preloader Start -->
-      <div class="preloader">
-         <div class="loading-container">
-            <div class="loading"></div>
-            <div id="loading-icon"><img src="assets/img/logo/loader/loader.png" alt=""></div>
-         </div>
-      </div>
-      <!-- Preloader End -->
+   <main>
+      <!-- slider-area-start -->
+      <div class="tp-slider-family-area p-relative">
+         <img class="tp-slider-family-shape p-absolute" src="assets/img/banner/family/shape5.png" alt="shape">
+         <img class="tp-slider-family-shape-4 tptranslateX2 p-absolute" src="assets/img/banner/family/famely-shape1.png"
+            alt="shape">
+         <img class="tp-slider-family-shape-5 upslide p-absolute d-none d-lg-block"
+            src="assets/img/banner/family/shape2.png" alt="shape">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-xl-7 col-lg-6 mb-50">
+                  <div class="tp-slider-family-content">
+                     <h4 class="tp-slider-title-family wow fadeInUp" data-wow-delay=".3s">No Stress, No Delays –
+                        <br>Just Quick Claims with Claims Ok
+                     </h4>
+                     <p class="tp-slider-title-pre-family mb-40  wow fadeInUp" data-wow-delay=".4s">We fight for your
+                        rights, ensuring that insurance companies honor their commitments. With Claims Ok, you don’t
+                        have to worry about claim rejections, improper settlements, or lengthy delays.</p>
 
-     <?php
-         include('header.php');
-     ?>
+                     <div class="tp-slider-saveing d-flex align-items-center  wow fadeInUp" data-wow-delay=".7s">
+                        <div class="tp-slider-saveing-content tp-slider-saveing-border d-flex align-items-center mb-20">
+                           <h5 class="tp-slider-saveing-intarece">Faster Settlements</h5>
 
-      <main>
-         <!-- slider-area-start -->
-         <div class="tp-slider-area tp-slider-bg tp-slider-space fix p-relative">
-            <img class="tp-slider-shape d-none d-lg-block upslide p-absolute" src="assets/img/banner/main/shape4.png" alt="shape4">
-            <img class="tp-slider-shape-2 light d-none d-lg-block p-absolute" src="assets/img/banner/main/shape5.png" alt="shape5">
-            <div class="container">
-               <div class="row">          
-                  <div class="col-lg-7">
-                     <div class="tp-slider-content">
-                        <span class="tp-slider-title-pre mb-30 wow fadeInLeft" data-wow-delay=".3s">Digital Insurance Platform</span>
-                        <h2 class="tp-slider-title  mb-50  wow fadeInRight" data-wow-delay=".3s">Launch Your Own Insurance Website With Insurai.</h2>
-                        <div class="tp-slider-btn d-flex align-items-center  wow fadeInUp" data-wow-delay=".3s">
-                           <a class="tp-btn" href="contact.html">Let’s Get Started</a>
-                           <div class="tp-slider-video-btn">
-                              <a class="tp-video-play popup-video" href="https://www.youtube.com/watch?v=go7QYaQR494">
-                                 <i class="p-relative z-index-11 fa-regular fa-play"></i>
-                                 <div class="tp-video-btn-anm">
-                                    <div class="tp-video-waves tp-video-wave-1"></div>
-                                    <div class="tp-video-waves tp-video-wave-2"></div>
-                                    <div class="tp-video-waves tp-video-wave-3"></div>
-                                 </div>
-                              </a>
-                           </div>
-                           <span class="tp-slider-work d-none d-sm-block">How It Works</span>
                         </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-5">
-                     <div class="tp-slider-thumb h-100">
-                        <img class="tp-slider-thumb-img" src="assets/img/banner/main/hero-man.png" alt="man">
-                        <div class="tp-slider-shape-wrapper h-100 p-relative">
-                           <img class="tp-slider-shape-6 tree-move d-none d-lg-block p-absolute" src="assets/img/banner/main/shape6.png" alt="shape6">
-                           <img class="tp-slider-shape-3 upslide d-none d-md-block p-absolute" src="assets/img/banner/main/shape3.png" alt="shape3">
-                           <img class="tp-slider-shape-4 d-none d-md-block tptranslateY2 p-absolute" src="assets/img/banner/main/shape-2.png" alt="shape2">
-                           <img class="tp-slider-shape-1 tptranslateX2 d-none d-xxl-block p-absolute" src="assets/img/banner/main/shape1.png" alt="shape1">
+                        <div class="tp-slider-saveing-content d-flex mb-20">
+                           <h5 class="tp-slider-saveing-intarece">Expert Assistance</h5>
                         </div>
                      </div>
                   </div>
                </div>
-            </div>
-         </div>
-         <!-- slider-area-end -->
-
-         <!-- tp-expert-area-start -->
-         <div class="tp-body-shape p-relative">
-            <img class="tp-body-shape-img p-absolute" src="assets/img/body-shape/body-shape.png" alt="body">
-         </div>
-         <div class="tp-expert-area">
-            <div class="container">
-               <div class="row align-items-center">
-                  <div class="col-lg-6 pt-30 pb-30">
-                     <div class="tp-expart-left d-flex align-items-center">
-                        <img src="assets/img/expart/expart.png" alt="expart">
-                        <div class="tp-expart-content">
-                           <span>Looking for an agent? <a href="contact.html">Talk to our insurance expert</a></span>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-6 ">
-                     <div class="tp-expart-content f-right pt-30 pb-30">
-                        <span>Our design services start and ends with a best in class</span>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-expert-area-end -->
-
-         <!-- tp-feature-area -->
-         <div class="tp-body-shape p-relative">
-            <img class="tp-body-shape-img-2 p-absolute" src="assets/img/body-shape/body-shape-2.png" alt="body">
-         </div>
-         <div class="tp-feature-area pb-100">
-            <div class="container">
-               <div class="row  tp-feature-spacing tp-border-top pt-105">
-                  <div class="col-lg-12 mb-40">
-                     <div class="tp-section-title-wrapper text-center">
-                        <h2 class="tp-section-title tp-split-in-left">We’re Giving all the<br> Insurance Services to You</h2>
-                     </div>
-                  </div>
-               </div>
-               <div class="row tp-feature-spacing">
-                  <div class="col-xl-3 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-delay="00ms">
-                     <div class="tp-feature-wrapper text-center">
-                        <div class="tp-feature-icon mb-25">
-                           <span><i class="flaticon-car"></i></span>
-                        </div>
-                        <div class="tp-feature-content">
-                           <h4 class="tp-feature-title mb-15"><a href="insurance-details.html">Car Insurance</a></h4>
-                           <p class="tp-feature-para">A home insurance policy will cover the cost…</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-delay="100ms">
-                     <div class="tp-feature-wrapper text-center">
-                        <div class="tp-feature-icon mb-25">
-                           <span><i class="flaticon-mortgage"></i></span>
-                        </div>
-                        <div class="tp-feature-content">
-                           <h4 class="tp-feature-title mb-15"><a href="insurance-details.html">Home Insurance</a></h4>
-                           <p class="tp-feature-para">A home insurance policy will cover the cost…</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-delay="200ms">
-                     <div class="tp-feature-wrapper text-center">
-                        <div class="tp-feature-icon mb-25">
-                           <span><i class="flaticon-risk-management"></i></span>
-                        </div>
-                        <div class="tp-feature-content">
-                           <h4 class="tp-feature-title mb-15"><a href="insurance-details.html">Life Insurance</a></h4>
-                           <p class="tp-feature-para">A home insurance policy will cover the cost…</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-6 col-md-6 mb-40  wow fadeInUp" data-wow-delay="300ms">
-                     <div class="tp-feature-wrapper text-center">
-                        <div class="tp-feature-icon mb-25">
-                           <span><i class="flaticon-medical-insurance"></i></span>
-                        </div>
-                        <div class="tp-feature-content">
-                           <h4 class="tp-feature-title mb-15"><a href="insurance-details.html">Health Insurance</a></h4>
-                           <p class="tp-feature-para">A home insurance policy will cover the cost…</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-feature-end -->
-
-         <!-- tp-about-area-start -->
-         <div class="tp-about-area tp-about-area-spacing fix pb-70">
-            <div class="container">
-               <div class="row">
-                  <div class="col-xl-6 col-lg-5 mb-70 wow fadeInLeft">
-                     <div class="tp-about-wrapper">
-                        <div class="tp-about-shape-2 tptranslateX2">
-                           <img src="assets/img/about/main/shape-1.png" alt="shape">
-                           <span>Helth Insurance</span>
-                        </div>
-                        <img  class="tp-about-shape-4 d-none d-xl-block p-absolute" src="assets/img/about/main/shape-2.png" alt="shape">
-                        <div class="tp-about-shape-9 d-none d-xl-block p-absolute"></div>
-                        <div class="tp-about-shape p-relative">
-                           <img class="tp-about-shape-10" src="assets/img/about/main/man.jpg" alt="man">
-                           <img class="tp-about-shape-3 upslide d-none d-xl-block p-absolute" src="assets/img/about/main/shape-7.png" alt="shape">
-                           <img class="tp-about-shape-5 d-none d-xl-block upslide p-absolute" src="assets/img/about/main/man-round.png" alt="round">
-                        </div>
-                        <img class="tp-about-shape-6 d-none d-xl-block" src="assets/img/about/main/shape-3.png" alt="shape">
-                        <div class="tp-about-shape-7 tptranslateX2 d-none d-md-block p-absolute">
-                           <img src="assets/img/about/main/shape-5.png" alt="shape">
-                           <span>Pure Life <br> Insurance</span>
-                        </div>
-                        <img class="tp-about-shape-8 d-none d-xl-block p-absolute" src="assets/img/about/main/shape-6.png" alt="shape">
-                     </div>
-                  </div>
-                  <div class="col-xl-6 col-lg-7 mb-70">
-                     <div class="tp-about-content-wrapper">
-                        <div class="tp-about-section-title-wrapper mb-40">
-                           <span class="tp-section-title-pre tp-split-in-right mb-15">Know About Insurai</span>
-                           <h2 class="tp-section-title tp-split-in-left mb-25">We Provide the Best Insurance Policy</h2>
-                           <p class="tp-section-title-para">Our insurance platform is protected with the latest encrypt technolog and multi-factor authentication giving</p>
-                        </div>
-                        <div class="tp-about-info mb-55">
-                           <div class="tp-about-info-item d-flex mb-20">
-                              <div class="tp-about-info-icon">
-                                 <span><i class="flaticon-refund"></i></span>
-                              </div>
-                              <div class="tp-about-info-content">
-                                 <h4 class="tp-about-info-title">Moneyback Gurantee</h4>
-                                 <p class="tp-about-info-para">Duis aute irue dolor in reprehenderit<br> esse cillum dolore er nulla</p>
-                              </div>
-                           </div>
-                           <div class="tp-about-info-item d-flex">
-                              <div class="tp-about-info-icon">
-                                 <span><i class="flaticon-customer-care"></i></span>
-                              </div>
-                              <div class="tp-about-info-content">
-                                 <h4 class="tp-about-info-title">Technical Support</h4>
-                                 <p class="tp-about-info-para">Duis aute irue dolor in reprehenderit<br> esse cillum dolore er nulla</p>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="tp-about-details d-flex">
-                           <div class="tp-about-btn mr-30 lineheight-1">
-                              <a class="tp-btn tp-btn-green" href="contact.html">Let’s Get Started</a>
-                           </div>
-                           <div class="tp-about-avatar d-flex align-items-center">
-                              <div class="tp-about-avatar-thumb">
-                                 <img src="assets/img/about/main/dymond.png" alt="dymond">
-                              </div>
-                              <div class="tp-about-avatar-content">
-                                 <h5>1.80m</h5>
-                                 <p>Total Active User</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-about-area-end -->
-
-         <!-- tp-counter-area-start -->
-         <div class="tp-counter-area pb-140">
-            <div class="container">
-               <div class="row gx-0 tp-counter-space">
-                  <div class="col-xl-3 col-lg-6 col-md-6">
-                     <div class="tp-counter-item tp-counter-item-border p-relative d-flex">
-                        <img class="tp-counter-shape p-absolute" src="assets/img/counter/counter.png" alt="counter">
-                        <div class="tp-counter-item-icon">
-                           <span><i class="flaticon-health-insurance"></i></span>
-                        </div>
-                        <div class="tp-counter-item-content">
-                           <h3 class="tp-counter-item-count"><span data-purecounter-duration="1" data-purecounter-end="20"  class="purecounter">0</span>K</h3>
-                           <p>Give Insurance</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-6 col-md-6">
-                     <div class="tp-counter-item tp-counter-item-border p-relative d-flex">
-                        <img class="tp-counter-shape p-absolute" src="assets/img/counter/counter.png" alt="counter">
-                        <div class="tp-counter-item-icon">
-                           <span><i class="flaticon-customer-service"></i></span>
-                        </div>
-                        <div class="tp-counter-item-content">
-                           <h3 class="tp-counter-item-count"><span data-purecounter-duration="1" data-purecounter-end="4"  class="purecounter"></span>.8K</h3>
-                           <p>Happy Customers</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-6 col-md-6">
-                     <div class="tp-counter-item tp-counter-item-border p-relative d-flex">
-                        <img class="tp-counter-shape p-absolute" src="assets/img/counter/counter.png" alt="counter">
-                        <div class="tp-counter-item-icon">
-                           <span><i class="flaticon-management"></i></span>
-                        </div>
-                        <div class="tp-counter-item-content">
-                           <h3 class="tp-counter-item-count"><span data-purecounter-duration="1" data-purecounter-end="120"  class="purecounter">0</span>+</h3>
-                           <p>Professional Team</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-3 col-lg-6 col-md-6">
-                     <div class="tp-counter-item tp-counter-item-border p-relative d-flex">
-                        <img class="tp-counter-shape p-absolute" src="assets/img/counter/counter.png" alt="counter">
-                        <div class="tp-counter-item-icon">
-                           <span><i class="flaticon-rating"></i></span>
-                        </div>
-                        <div class="tp-counter-item-content">
-                           <h3 class="tp-counter-item-count"><span data-purecounter-duration="1" data-purecounter-end="96"  class="purecounter">0</span>%</h3>
-                           <p>Success Rating</p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-counter-area-start -->
-
-         <!-- tp-portfolio-area-start -->
-         <div class="tp-portfolio-area pb-140">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-portfolio-title-wrapper text-center mb-60">
-                        <span class="tp-section-title-pre tp-section-title-pre-top tp-split-in-right mb-20">Recent Portfolio</span>
-                        <h2 class="tp-section-title  tp-split-in-left">Checkout Our Recently <br> Completed Work</h2>
-                     </div>
-                  </div>
-               </div>
-               <div class="row tp-portfolio-spacing mb-55">
-                  <div class="tp-portfolio-slider-wrapper">
-                     <div class="swiper-container tp-portfolio-slider">
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide tp-portfolio-slider-item">
-                              <div class="tp-portfolio-item tp-portfolio-item-hover p-relative fix">
-                                 <div class="tp-portfolio-thumb">
-                                    <div class="tp-portfolio-image-hover">
-                                       <div class="tp-portfolio-image-hover-2"></div>
-                                    </div>
-                                    <a href="portfolio-details.html"><img class="w-100" src="assets/img/portfolio/portfolio-1.jpg" alt="portfolio"></a>
-                                 </div>
-                                 <div class="tp-portfolio-position">
-                                    <div class="tp-portfolio-content p-relative">
-                                       <img class="tp-portfolio-shape p-absolute" src="assets/img/portfolio/shape.png" alt="shape">
-                                       <span class="tp-portfolio-pre">Strategy</span>
-                                       <h3 class="tp-portfolio-title"><a href="portfolio-details.html">Health Protection</a></h3>
-                                       <a class="tp-portfolio-icon" href="portfolio-details.html"><i class="fa-regular fa-arrow-right-long"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide tp-portfolio-slider-item">
-                              <div class="tp-portfolio-item tp-portfolio-item-hover p-relative fix">
-                                 <div class="tp-portfolio-thumb">
-                                    <div class="tp-portfolio-image-hover">
-                                       <div class="tp-portfolio-image-hover-2"></div>
-                                    </div>
-                                    <a href="portfolio-details.html"><img class="w-100" src="assets/img/portfolio/portfolio-2.jpg" alt="portfolio"></a>
-                                 </div>
-                                 <div class="tp-portfolio-position">
-                                    <div class="tp-portfolio-content p-relative">
-                                       <img class="tp-portfolio-shape p-absolute" src="assets/img/portfolio/shape.png" alt="shape">
-                                       <span class="tp-portfolio-pre">Strategy</span>
-                                       <h3 class="tp-portfolio-title"><a href="portfolio-details.html">Protector Insurance</a></h3>
-                                       <a class="tp-portfolio-icon" href="portfolio-details.html"><i class="fa-regular fa-arrow-right-long"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide tp-portfolio-slider-item">
-                              <div class="tp-portfolio-item tp-portfolio-item-hover p-relative fix">
-                                 <div class="tp-portfolio-thumb">
-                                    <div class="tp-portfolio-image-hover">
-                                       <div class="tp-portfolio-image-hover-2"></div>
-                                    </div>
-                                    <a href="portfolio-details.html"><img class="w-100" src="assets/img/portfolio/portfolio-3.jpg" alt="portfolio"></a>
-                                 </div>
-                                 <div class="tp-portfolio-position">
-                                    <div class="tp-portfolio-content p-relative">
-                                       <img class="tp-portfolio-shape p-absolute" src="assets/img/portfolio/shape.png" alt="shape">
-                                       <span class="tp-portfolio-pre">Strategy</span>
-                                       <h3 class="tp-portfolio-title"><a href="portfolio-details.html">Trust Insured</a></h3>
-                                       <a class="tp-portfolio-icon" href="portfolio-details.html"><i class="fa-regular fa-arrow-right-long"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide tp-portfolio-slider-item">
-                              <div class="tp-portfolio-item tp-portfolio-item-hover p-relative fix">
-                                 <div class="tp-portfolio-thumb">
-                                    <div class="tp-portfolio-image-hover">
-                                       <div class="tp-portfolio-image-hover-2"></div>
-                                    </div>
-                                    <a href="portfolio-details.html"><img class="w-100" src="assets/img/portfolio/portfolio-4.jpg" alt="portfolio"></a>
-                                 </div>
-                                 <div class="tp-portfolio-position">
-                                    <div class="tp-portfolio-content p-relative">
-                                       <img class="tp-portfolio-shape p-absolute" src="assets/img/portfolio/shape.png" alt="shape">
-                                       <span class="tp-portfolio-pre">Strategy</span>
-                                       <h3 class="tp-portfolio-title"><a href="portfolio-details.html">Secure Coverage</a></h3>
-                                       <a class="tp-portfolio-icon" href="portfolio-details.html"><i class="fa-regular fa-arrow-right-long"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide tp-portfolio-slider-item">
-                              <div class="tp-portfolio-item tp-portfolio-item-hover p-relative fix">
-                                 <div class="tp-portfolio-thumb">
-                                    <div class="tp-portfolio-image-hover">
-                                       <div class="tp-portfolio-image-hover-2"></div>
-                                    </div>
-                                    <a href="portfolio-details.html"><img class="w-100" src="assets/img/portfolio/portfolio-5.jpg" alt="portfolio"></a>
-                                 </div>
-                                 <div class="tp-portfolio-position">
-                                    <div class="tp-portfolio-content p-relative">
-                                       <img class="tp-portfolio-shape p-absolute" src="assets/img/portfolio/shape.png" alt="shape">
-                                       <span class="tp-portfolio-pre">Strategy</span>
-                                       <h3 class="tp-portfolio-title"><a href="portfolio-details.html">Planning & Analysis</a></h3>
-                                       <a class="tp-portfolio-icon" href="portfolio-details.html"><i class="fa-regular fa-arrow-right-long"></i></a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-portfolio-pg-wrapper">
-                        <div class="tp-portfolio-navigation-inner d-flex justify-content-between mb-10">
-                           <div class="tp-portfolio-agen-next"><i class="fa-sharp fa-solid fa-arrow-right"></i></div> 
-                           <div class="tp-portfolio-agen-prev"><i class="fa-sharp fa-solid fa-arrow-left"></i></div>
-                        </div>
-                        <div class="tp-portfolio-pagination lineheight-1"></div>  
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-portfolio-area-end -->
-
-         <!-- tp-chose-us-area-start -->
-         <div class="tp-chose-us-area tp-bg-yellow p-relative pt-125 pb-120">
-            <img class="tp-choseus-shape-5 d-none d-md-block upslide p-absolute" src="assets/img/chose/chose-shape-8.png" alt="shape">
-            <img class="tp-choseus-shape-6 tree-move d-none d-xl-block p-absolute" src="assets/img/chose/chose-shape-2.png" alt="shape">
-            <img class="tp-choseus-shape-7 tree-move d-none d-xl-block p-absolute" src="assets/img/chose/chose-shape.png" alt="shape">
-            <img class="tp-choseus-shape-8 d-none d-xl-block tpswing p-absolute" src="assets/img/chose/chose-shape-3.png" alt="shape">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-choseus-section-title-wrapper text-center mb-125">
-                        <h2 class="tp-section-title tp-split-in-left mb-25">Before You Start, Here a Usefull Synopsis <br> of What You Can Try.</h2>
-                        <p class="tp-section-title-para">Nullam eu nibh vitae est tempor molestie id sed ex. Quisque dignissim<br> maximus ipsum, sed rutrum metus tincidunt et. </p>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-lg-6 col-12">
-                     <div class="tp-choseus-section-title-wrapper mb-45">
-                        <span class="tp-section-title-pre tp-section-title-pre-white tp-split-in-right mb-15">Why You Choose</span>
-                        <h2 class="tp-section-title tp-split-in-left mb-25">Few Reason for  People<br> Choose Insurai</h2>
-                        <p class="tp-section-title-para">Our insurance platform is protected with the latest encrypt<br> technolog and multi-factor authentication giving</p>
-                     </div>
-                     <div class="tp-choseus-wrapper">
-                        <div class="row gx-20">
-                           <div class="col-lg-6 col-md-6 col-sm-6 mb-20 wow fadeInUp" data-wow-delay="00ms">
-                              <div class="tp-choseus-item text-center">
-                                 <div class="tp-choseus-icon">
-                                    <img src="assets/img/chose/icon/icon-1.svg" alt="icon">
-                                 </div>
-                                 <h5 class="tp-choseus-title">Insurance Agency</h5>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-sm-6 mb-20 wow fadeInUp" data-wow-delay="100ms">
-                              <div class="tp-choseus-item text-center">
-                                 <div class="tp-choseus-icon">
-                                    <img src="assets/img/chose/icon/icon-2.svg" alt="icon">
-                                 </div>
-                                 <h5 class="tp-choseus-title">Fast & Easy Process</h5>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-sm-6 mb-20 wow fadeInUp" data-wow-delay="200ms">
-                              <div class="tp-choseus-item text-center">
-                                 <div class="tp-choseus-icon">
-                                    <img src="assets/img/chose/icon/icon-3.svg" alt="icon">
-                                 </div>
-                                 <h5 class="tp-choseus-title">Save Your Money</h5>
-                              </div>
-                           </div>
-                           <div class="col-lg-6 col-md-6 col-sm-6 mb-20 wow fadeInUp" data-wow-delay="300ms">
-                              <div class="tp-choseus-item text-center">
-                                 <div class="tp-choseus-icon">
-                                    <img src="assets/img/chose/icon/icon-4.svg" alt="icon">
-                                 </div>
-                                 <h5 class="tp-choseus-title">Control Cover Policy</h5>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-lg-6 col-12 mb-30">
-                     <div class="tp-choseus-shape-wrapper h-100">
-                        <div class="tp-choseus-shape-item p-relative h-100">
-                           <img class="tp-choseus-shape-2 upslide d-none d-xl-block p-absolute" src="assets/img/chose/chose-shape-4.png" alt="chose">
-                           <img class="tp-choseus-shape-3 d-none d-lg-block up-down p-absolute" src="assets/img/chose/chose-shape-5.png" alt="chose">
-                           <img class="tp-choseus-shape-4 up-down d-none d-xl-block p-absolute" src="assets/img/chose/chose-shape-6.png" alt="chose">
-                        </div>
-                        <img class="tp-choseus-shape p-absolute" src="assets/img/chose/chous-shape-hand.png" alt="hand-shape ">
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-chose-us-area-end -->
-
-         <!-- pricing-plan-area-start -->
-         <div class="tp-body-shape p-relative">
-            <img class="tp-body-shape-img p-absolute" src="assets/img/body-shape/body-shape-3.png" alt="body">
-         </div>
-         <div class="tp-pricing-area p-relative pt-140 pb-100">
-            <img class="tp-pricing-shape d-none d-xxl-block tpswing p-absolute" src="assets/img/pricing/shape.png" alt="shape">
-            <img class="tp-pricing-shape-2 d-none d-xxl-block upslide p-absolute" src="assets/img/pricing/shape-5.png" alt="shape">
-            <img class="tp-pricing-shape-3 d-none d-xxl-block upslide p-absolute" src="assets/img/pricing/shape-6.png" alt="shape">
-            <div class="container">
-               <div class="row">
-                  <div class="col-xl-4 col-lg-12 mb-40 tp-pricing-flex">
-                     <div class="tp-pricing-title-wrapper">
-                        <span class="tp-section-title-pre tp-split-in-right mb-15">Our Pricing Plan</span>
-                        <h2 class="tp-section-title tp-pricing-section-title tp-split-in-left mb-40">Choose the <br>Best Plans for<br> Yourself</h2>
-                     </div>
-                     <div class="tp-pricing-main p-relative">
-                        <div class="nav tp-pricing-main-btn flex-column nav-pills" role="tablist" aria-orientation="vertical">
-                           <button class="nav-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">01
-                              <span class="tp-pricing-date">Monthly</span>
-                           </button>
-                           <button class="nav-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">02
-                              <span class="tp-pricing-date">Yearly</span>
-                           </button>
-                         </div>
-                         <img class="tp-pricing-shape-4 tpswing d-none d-lg-block" src="assets/img/pricing/shine.png" alt="shine">
-                     </div>
-                  </div>
-                  <div class="col-xl-8 col-lg-12">
+               <div class="col-xl-5 col-lg-6 mb-50">
+                  <div class="tp-slider-family-thumb p-relative">
+                     <img class="tp-slider-family-shape-2 d-none d-lg-block light p-absolute"
+                        src="assets/img/banner/main/shape4.png" alt="shape">
                      <div class="row">
-                        <div class="col-lg-12">
-                           <div class="tab-content">
-                              <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                               <div class="row">
-                                  <div class="col-xl-6 col-lg-6 col-md-6 mb-40">
-                                     <div class="tp-pricing-wrapper">
-                                        <div class="tp-pricing-inner p-relative">
-                                           <div class="tp-pricing-img">
-                                              <img class="w-100" src="assets/img/pricing/pricing.jpg" alt="chose">
-                                           </div>
-                                           <div class="tp-pricing-price-wrapper p-absolute">
-                                              <span class="tp-pricing-title-pre mb-15">Basic Package</span>
-                                              <img class="mb-35" src="assets/img/pricing/icon.svg" alt="icon">
-                                              <div class="tp-pricing-price-inner">
-                                                 <span class="tp-pricing-badge">$</span>
-                                                 <h4 class="tp-pricing-price">790</h4>
-                                                 <span class="tp-pricing-price-packege">/Mo</span>
-                                              </div>
-                                           </div>
-                                           <div class="tp-pricing-policy p-absolute">
-                                             <a class="tp-btn tp-btn-green" href="contact.html">Select Policy</a>
-                                           </div>
-                                        </div>
-                                        <div class="tp-pricing-feature p-relative">
-                                           <img class="tp-pricing-map p-absolute" src="assets/img/pricing/map.png" alt="map">
-                                           <ul>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Client Portal</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Online Payments</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Running Transations</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Invoices / Estimates</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Projects and Time Sheet</li>
-                                           </ul>
-                                        </div>
-                                     </div>
-                                  </div>
-                                  <div class="col-xl-6 col-lg-6 col-md-6 mb-40">
-                                     <div class="tp-pricing-wrapper tp-pricing-wrapper-2">
-                                        <div class="tp-pricing-inner p-relative">
-                                           <div class="tp-pricing-img">
-                                              <img class="w-100" src="assets/img/pricing/pricing-2.jpg" alt="chose">
-                                           </div>
-                                           <div class="tp-pricing-price-wrapper p-absolute">
-                                              <span class="tp-pricing-title-pre mb-15">Basic Package</span>
-                                              <img class="mb-35" src="assets/img/pricing/icon.svg" alt="icon">
-                                              <div class="tp-pricing-price-inner">
-                                                 <span class="tp-pricing-badge tp-pricing-badge-2">$</span>
-                                                 <h4 class="tp-pricing-price tp-pricing-price-2">890</h4>
-                                                 <span class="tp-pricing-price-packege tp-pricing-price-packege-2">/Mo</span>
-                                              </div>
-                                           </div>
-                                           <div class="tp-pricing-policy p-absolute">
-                                             <a class="tp-btn tp-btn-black" href="contact.html">Select Policy</a>
-                                           </div>
-                                        </div>
-                                        <div class="tp-pricing-feature tp-pricing-feature-2 p-relative">
-                                           <img class="tp-pricing-map p-absolute" src="assets/img/pricing/map2.png" alt="map">
-                                           <ul>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Client Portal</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Online Payments</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Running Transations</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Invoices / Estimates</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Projects and Time Sheet</li>
-                                           </ul>
-                                        </div>
-                                     </div>
-                                  </div>
-                               </div>
+                        <div class="col-xl-8 col-lg-6 col-md-6 col-sm-6">
+                           <div class="tp-slider-left-shape p-relative">
+                              <img class="upslide" src="assets/img/banner/family/shape3.png" alt="shape3">
+                              <div class="tp-slider-shape-content text-center p-absolute">
+                                 <h2><span data-purecounter-duration="1" data-purecounter-end="99"
+                                       class="purecounter">0</span>%</h2>
+                                 <span>Customers Trust us &<br> have bought Insurance</span>
                               </div>
-                              <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                               <div class="row">
-                                  <div class="col-xl-6 col-lg-6 col-md-6 mb-40">
-                                     <div class="tp-pricing-wrapper">
-                                        <div class="tp-pricing-inner p-relative">
-                                           <div class="tp-pricing-img">
-                                              <img class="w-100" src="assets/img/pricing/pricing.jpg" alt="chose">
-                                           </div>
-                                           <div class="tp-pricing-price-wrapper p-absolute">
-                                              <span class="tp-pricing-title-pre mb-15">Basic Package</span>
-                                              <img class="mb-35" src="assets/img/pricing/icon.svg" alt="icon">
-                                              <div class="tp-pricing-price-inner">
-                                                 <span class="tp-pricing-badge">$</span>
-                                                 <h4 class="tp-pricing-price">890</h4>
-                                                 <span class="tp-pricing-price-packege">/Ye</span>
-                                              </div>
-                                           </div>
-                                           <div class="tp-pricing-policy p-absolute">
-                                             <a class="tp-btn tp-btn-green" href="contact.html">Select Policy</a>
-                                           </div>
-                                        </div>
-                                        <div class="tp-pricing-feature p-relative">
-                                           <img class="tp-pricing-map p-absolute" src="assets/img/pricing/map.png" alt="map">
-                                           <ul>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Client Portal</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Online Payments</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Running Transations</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Invoices / Estimates</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Projects and Time Sheet</li>
-                                           </ul>
-                                        </div>
-                                     </div>
-                                  </div>
-                                  <div class="col-xl-6 col-lg-6 col-md-6 mb-40">
-                                     <div class="tp-pricing-wrapper tp-pricing-wrapper-2">
-                                        <div class="tp-pricing-inner p-relative">
-                                           <div class="tp-pricing-img">
-                                              <img class="w-100" src="assets/img/pricing/pricing-2.jpg" alt="chose">
-                                           </div>
-                                           <div class="tp-pricing-price-wrapper p-absolute">
-                                              <span class="tp-pricing-title-pre mb-15">Basic Package</span>
-                                              <img class="mb-35" src="assets/img/pricing/icon.svg" alt="icon">
-                                              <div class="tp-pricing-price-inner">
-                                                 <span class="tp-pricing-badge tp-pricing-badge-2">$</span>
-                                                 <h4 class="tp-pricing-price tp-pricing-price-2">990</h4>
-                                                 <span class="tp-pricing-price-packege tp-pricing-price-packege-2">/Ye</span>
-                                              </div>
-                                           </div>
-                                           <div class="tp-pricing-policy p-absolute">
-                                             <a class="tp-btn tp-btn-black" href="contact.html">Select Policy</a>
-                                           </div>
-                                        </div>
-                                        <div class="tp-pricing-feature tp-pricing-feature-2 p-relative">
-                                           <img class="tp-pricing-map p-absolute" src="assets/img/pricing/map2.png" alt="map">
-                                           <ul>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Client Portal</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Online Payments</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Running Transations</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Invoices / Estimates</li>
-                                              <li><span><i class="fa-sharp fa-regular fa-square-check"></i></span> Projects and Time Sheet</li>
-                                           </ul>
-                                        </div>
-                                     </div>
-                                  </div>
-                               </div>
-                              </div>
-                            </div>
+                           </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- pricing-plan-area-end -->
-
-         <!-- tp-video-area-start -->
-         <div class="tp-video-area bg-position jarallax" data-background="assets/img/video/video-bg.jpg">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-video-btn text-center">
-                        <a class="tp-video-play tp-video-play-2 popup-video" href="https://www.youtube.com/watch?v=go7QYaQR494">
-                           <i class="p-relative z-index-11 fa-solid fa-play"></i>
-                        </a>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-video-area-end -->
-
-         <!-- tp-testimonial-area-start -->
-         <div class="tp-testimonial-area pt-140 pb-130 tp-blue-bg p-relative">
-            <img class="tp-testimonial-shape  up-down d-none d-xxl-block p-absolute" src="assets/img/testimonial/shape.png" alt="shape">
-            <div class="container">
-               <div class="row align-items-end mb-25">
-                  <div class="col-lg-7 mb-25">
-                     <div class="tp-pricing-title-wrapper">
-                        <span class="tp-section-title-pre tp-section-title-pre-white-2 tp-split-in-right mb-15">Clients Feedback</span>
-                        <h2 class="tp-section-title tp-split-in-left">What Our Client Say<br>About Our Insurai agency</h2>
-                     </div>
-                  </div>
-                  <div class="col-lg-5 mb-40">
-                     <div class="tp-testimonial-btn lineheight-1 f-right">
-                        <a class="tp-btn tp-btn-green" href="testimonial.html">View all Reviews</a>
-                     </div>
-                  </div>
-               </div>
-               <div class="row tp-testimonial-spacing">
-                  <div class="col-12">
-                     <div class="swiper-container tp-testimonial-slide">
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide">
-                              <div class="tp-testimonial-wrapper text-center">
-                                 <div class="tp-testimonial-content">
-                                    <div class="tp-testimonial-rating mb-35">
-                                       <ul>
-                                          <li>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                          </li>
-                                       </ul>
-                                    </div>
-                                    <div class="tp-testimonial-content-para">
-                                       <p>System is a term used to refer to an
-                                          organized collection and to symbols
-                                          and processes that may be used
-                                          to operate on such symbols.
-                                          Perspiciatis omnis natus
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="tp-testimonial-thumb mb-5">
-                                    <img  class="tp-testimonial-thumb-img" src="assets/img/testimonial/06.png" alt="testimonial">
-                                 </div>
-                                 <div class="tp-testimonial-avatar-info">
-                                    <h5 class="tp-testimonial-avatar-title"><a href="testimonial.html">Raihan</a></h5>
-                                    <span class="tp-testimonial-avatar-pre">Developer</span>
-                                 </div>
+                        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
+                           <div class="tp-slider-reduction-thumb p-relative">
+                              <img class="tp-slider-family-shape-3 tprotate p-absolute d-none d-lg-block"
+                                 src="assets/img/banner/main/shape3.png" alt="shape">
+                              <div class="tp-slider-reduction-content text-center">
+                                 <h2><span data-purecounter-duration="1" data-purecounter-end="90"
+                                       class="purecounter">0</span>%</h2>
+                                 <span>Claim Success Rate</span>
                               </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-testimonial-wrapper text-center">
-                                 <div class="tp-testimonial-content">
-                                    <div class="tp-testimonial-rating mb-35">
-                                       <ul>
-                                          <li>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                          </li>
-                                       </ul>
-                                    </div>
-                                    <div class="tp-testimonial-content-para">
-                                       <p>System is a term used to refer to an
-                                          organized collection and to symbols
-                                          and processes that may be used
-                                          to operate on such symbols.
-                                          Perspiciatis omnis natus
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="tp-testimonial-thumb mb-5">
-                                    <img  class="tp-testimonial-thumb-img" src="assets/img/testimonial/01.png" alt="testimonial">
-                                 </div>
-                                 <div class="tp-testimonial-avatar-info">
-                                    <h5 class="tp-testimonial-avatar-title"><a href="testimonial.html">Belal Mahmud</a></h5>
-                                    <span class="tp-testimonial-avatar-pre">Designer</span>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-testimonial-wrapper text-center">
-                                 <div class="tp-testimonial-content">
-                                    <div class="tp-testimonial-rating mb-35">
-                                       <ul>
-                                          <li>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                          </li>
-                                       </ul>
-                                    </div>
-                                    <div class="tp-testimonial-content-para">
-                                       <p>System is a term used to refer to an
-                                          organized collection and to symbols
-                                          and processes that may be used
-                                          to operate on such symbols.
-                                          Perspiciatis omnis natus
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="tp-testimonial-thumb mb-5">
-                                    <img  class="tp-testimonial-thumb-img" src="assets/img/testimonial/02.png" alt="testimonial">
-                                 </div>
-                                 <div class="tp-testimonial-avatar-info">
-                                    <h5 class="tp-testimonial-avatar-title"><a href="testimonial.html">Mahima Minu</a></h5>
-                                    <span class="tp-testimonial-avatar-pre">Co Founder</span>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-testimonial-wrapper text-center">
-                                 <div class="tp-testimonial-content">
-                                    <div class="tp-testimonial-rating mb-35">
-                                       <ul>
-                                          <li>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                          </li>
-                                       </ul>
-                                    </div>
-                                    <div class="tp-testimonial-content-para">
-                                       <p>System is a term used to refer to an
-                                          organized collection and to symbols
-                                          and processes that may be used
-                                          to operate on such symbols.
-                                          Perspiciatis omnis natus
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="tp-testimonial-thumb mb-5">
-                                    <img  class="tp-testimonial-thumb-img" src="assets/img/testimonial/03.png" alt="testimonial">
-                                 </div>
-                                 <div class="tp-testimonial-avatar-info">
-                                    <h5 class="tp-testimonial-avatar-title"><a href="testimonial.html">Sattik Chandra</a></h5>
-                                    <span class="tp-testimonial-avatar-pre">Engineer</span>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-testimonial-wrapper text-center">
-                                 <div class="tp-testimonial-content">
-                                    <div class="tp-testimonial-rating mb-35">
-                                       <ul>
-                                          <li>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                             <span><i class="fa-solid fa-star"></i></span>
-                                          </li>
-                                       </ul>
-                                    </div>
-                                    <div class="tp-testimonial-content-para">
-                                       <p>System is a term used to refer to an
-                                          organized collection and to symbols
-                                          and processes that may be used
-                                          to operate on such symbols.
-                                          Perspiciatis omnis natus
-                                       </p>
-                                    </div>
-                                 </div>
-                                 <div class="tp-testimonial-thumb mb-5">
-                                    <img  class="tp-testimonial-thumb-img" src="assets/img/testimonial/04.png" alt="testimonial">
-                                 </div>
-                                 <div class="tp-testimonial-avatar-info">
-                                    <h5 class="tp-testimonial-avatar-title"><a href="testimonial.html">Sattik Chandra</a></h5>
-                                    <span class="tp-testimonial-avatar-pre">Engineer</span>
-                                 </div>
+                              <div class="tp-slider-reduction-img">
+                                 <img src="assets/img/banner/family/shape4.png" alt="shape">
                               </div>
                            </div>
                         </div>
@@ -880,79 +113,464 @@
                </div>
             </div>
          </div>
-         <!-- tp-testimonial-area-end -->
+      </div>
+      <!-- slider-area-end -->
 
-         <!-- tp-contact-area-start -->
-         <div class="tp-body-shape p-relative">
-            <img class="tp-body-shape-img p-absolute" src="assets/img/body-shape/body-shape4.png" alt="body">
+      <!-- tp-feature-area -->
+      <div class="tp-feature-area pt-110 pb-100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-4 col-md-6  mb-40 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".4s">
+                  <div class="tp-feature-family-wrapper text-center tp-feature-colum-1">
+                     <div class="services-border-2"></div>
+                     <div class="tp-feature-family-content text-center">
+                        <span class="tp-feature-family-title-pre">Claim Assistance</span>
+                        <h4 class="tp-feature-family-title mb-30">24/7 Support for Quick & Easy Settlements</h4>
+                     </div>
+                     <div class="tp-feature-family-icon">
+                        <span>
+                           <i class="flaticon-promotion"></i>
+                        </span>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4  col-md-6 mb-40 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".6s">
+                  <div class="tp-feature-family-wrapper text-center tp-feature-colum-2">
+                     <div class="services-border-2"></div>
+                     <div class="tp-feature-family-content text-center">
+                        <span class="tp-feature-family-title-pre">Claim Support</span>
+                        <h4 class="tp-feature-family-title mb-30">Get Instant Support<br> all Day</h4>
+                     </div>
+                     <div class="tp-feature-family-icon">
+                        <span>
+                           <i class="flaticon-money-withdrawal"></i>
+                        </span>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4  col-md-6 mb-40 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".8s">
+                  <div class="tp-feature-family-wrapper text-center tp-feature-colum-3">
+                     <div class="services-border-2"></div>
+                     <div class="tp-feature-family-content text-center">
+                        <span class="tp-feature-family-title-pre">Consultation</span>
+                        <h4 class="tp-feature-family-title mb-30">Unbased Advice <br> from Expert</h4>
+                     </div>
+                     <div class="tp-feature-family-icon">
+                        <span>
+                           <i class="flaticon-support"></i>
+                        </span>
+                     </div>
+                  </div>
+               </div>
+            </div>
          </div>
-         <div class="tp-contact-area pt-140 pb-140 p-relative">
-            <img class="tp-contact-shape-2 tree-move p-absolute" src="assets/img/contact/contact-shape-2.png" alt="shape">
-            <img class="tp-contact-shape-3 d-none d-xl-block tptranslateY2 p-absolute" src="assets/img/contact/contact-shape-3.png" alt="shape3">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-contact-container p-relative">
-                        <span class="tp-contact-fill d-none d-xl-block p-absolute">Fill the<br> Form</span>
-                        <img class="tp-contact-shape-4 d-none d-xl-block tpswing p-absolute" src="assets/img/contact/shine.png" alt="shine">
+      </div>
+      <!-- tp-feature-end -->
+
+      <!-- tp-about-area-start -->
+      <div class="tp-about-area-family pb-100">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-xl-5 col-lg-5 mb-40 wow fadeInLeft">
+                  <div class="tp-about-thumb">
+                     <div class="tp-about-family-img p-relative">
+                        <img class="w-100" src="assets/img/about/family/01.jpg" alt="shape">
+                        <div class="tp-about-family-shape  d-none d-lg-block upslide p-absolute">
+                           <img class="tp-about-family-shape-2" src="assets/img/about/family/02.png" alt="shape">
+                           <h5>- Expert Consultation</h5>
+                           <p>Honest Guidance to Maximize Your Claim Benefits</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-7 col-lg-7 mb-40">
+                  <div class="tp-about-content-wrapper-family">
+                     <div class="tp-about-family-title">
+                        <span class="section-title tp-section-title-pre-family  tp-split-in-right mb-10">Know About
+                           Claims Ok</span>
+                        <h2 class="tp-section-title tp-section-title-dark  tp-split-in-left mb-30">Get Reliable & Quick
+                           Insurance for Your Family</h2>
+                        <p class="tp-section-title-para mb-35">
+                           At Claims Ok, we believe that insurance claims should be easy, stress-free, and fair. But in
+                           reality, the process can be overwhelming, with endless paperwork, confusing policies, and
+                           unnecessary delays. That’s why we’re here – to simplify your insurance claim journey and
+                           ensure you get the settlement you deserve, without the hassle.
+                        </p>
+                     </div>
+                     <div class="tp-about-list-wrapper mb-35">
                         <div class="row">
-                           <div class="col-lg-5 pb-40">
-                              <div class="tp-contact-content p-relative h-100">
-                                 <img class="tp-contact-shape tptranslateX2 d-none d-lg-block p-absolute" src="assets/img/contact/contact-shape.png" alt="contact">
-                                 <div class="tp-contact-icon mb-35">
-                                    <img src="assets/img/contact/headphone.svg" alt="headphone">
+                           <div class="col-lg-6 col-md-6">
+                              <div class="tp-about-list">
+                                 <ul>
+                                    <li>
+                                       <div class="tp-about-list-icon">
+                                          <span><i class="flaticon-checked-1"></i></span>
+                                       </div>
+                                       <span class="tp-about-list-title">Faster Claim Approvals</span>
+                                    </li>
+                                    <li>
+                                       <div class="tp-about-list-icon">
+                                          <span><i class="flaticon-checked-1"></i></span>
+                                       </div>
+                                       <span class="tp-about-list-title">Expert & Qualified Agent</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+                           <div class="col-lg-6 col-md-6">
+                              <div class="tp-about-list">
+                                 <ul>
+                                    <li>
+                                       <div class="tp-about-list-icon">
+                                          <span><i class="flaticon-checked-1"></i></span>
+                                       </div>
+                                       <span class="tp-about-list-title">Expert Consultation</span>
+                                    </li>
+                                    <li>
+                                       <div class="tp-about-list-icon">
+                                          <span><i class="flaticon-checked-1"></i></span>
+                                       </div>
+                                       <span class="tp-about-list-title">Always Dedicated Support</span>
+                                    </li>
+                                 </ul>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="tp-about-contact-wrapper d-flex align-items-center">
+                        <div class="tp-about-contact-btn-family lineheight-1 mr-50">
+                           <a class="tp-btn tp-btn-yellow" href="#">Discover More</a>
+                        </div>
+                        <div class="tp-about-info-family d-flex align-items-center">
+                           <div class="tp-about-info-thumb mr-20">
+                              <img width="60" height="60"
+                                 src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="user">
+                           </div>
+                           <div class="tp-about-info-content-family">
+                              <span>Call to Expert</span>
+                              <a href="tel:">+91 999999 99999</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- tp-about-area-end -->
+
+      <div class="tp-benifits-area pb-90">
+         <div class="container">
+            <div class="row">
+
+               <div class="col-lg-6 mb-40  wow fadeInRight" data-wow-delay="100ms">
+                  <div class="tp-benifits-title-wrapper">
+                     <span
+                        class="tp-section-title-pre section-title tp-section-title-pre-busi mb-15 tp-split-in-right">Company
+                        Benifits</span>
+                     <h2 class="tp-section-title tp-section-title-busi mb-15 tp-split-in-left">We Inspire and Try to
+                        Help Customers</h2>
+                     <p class="tp-section-title-para-busi mb-30">We exist to support you and help you in the time of
+                        need. Our relations with the insurance companies make us a valuable partner for you.</p>
+                     <div class="tp-faq-wrapper tp-faq-wrapper-1 tp-benifits-faq">
+                        <div class="accordion" id="general_faqaccordion">
+                           <div class="accordion-item tp-benifits-faq-list">
+                              <h2 class="accordion-header" id="order_one">
+                                 <button class="accordion-button tp-faq-btn-2" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#order__collapse_one" aria-expanded="true"
+                                    aria-controls="order__collapse_one">
+                                    What types of insurance do you offer?
+                                    <span class="accordion-btn"></span>
+                                 </button>
+                              </h2>
+                              <div id="order__collapse_one" class="accordion-collapse collapse show"
+                                 aria-labelledby="order_one" data-bs-parent="#general_faqaccordion">
+                                 <div class="accordion-body tp-faq-details-para p-relative">
+                                    <p>We provide a wide range of insurance options, including Home, Car, Life, and
+                                       Health Insurance, tailored to meet your specific needs.</p>
+                                    <span class="p-absolute"><i class="flaticon-policy"></i></span>
                                  </div>
-                                 <h3 class="tp-contact-title section-title tp-split-in-left mb-20">Let’s Talk With<br> Experience<br>  Advisors.</h3>
-                                 <p class="tp-contact-para">Our insurance platform is protected with the latest <br> technolog and multi-factor authentication</p>
                               </div>
                            </div>
-                           <div class="col-lg-2 pb-40">
-                              <div class="nav tp-contact-list" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                                 <button class="tp-contact-btn tp-contact-item d-flex nav-link" id="v-pills-home1-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home1" type="button" role="tab" aria-controls="v-pills-home1" aria-selected="false">
-                                    <i class="tp-contact-icon flaticon-trust"></i>
+                           <div class="accordion-item tp-benifits-faq-list">
+                              <h2 class="accordion-header" id="order_two">
+                                 <button class="accordion-button collapsed tp-faq-btn-2" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#order__collapse_two"
+                                    aria-expanded="false" aria-controls="order__collapse_two">
+                                    How can I choose the best insurance plan?
+                                    <span class="accordion-btn"></span>
                                  </button>
-                                 <button class="tp-contact-btn tp-contact-item d-flex nav-link active" id="v-pills-health-tab" data-bs-toggle="pill" data-bs-target="#v-pills-health" type="button" role="tab" aria-controls="v-pills-health " aria-selected="false">
-                                    <i class="tp-contact-icon flaticon-real-estate"></i>
-                                 </button>
-                                 <button class="tp-contact-btn tp-contact-item d-flex nav-link" id="v-pills-life-tab" data-bs-toggle="pill" data-bs-target="#v-pills-life" type="button" role="tab" aria-controls="v-pills-life" aria-selected="false">
-                                    <i class="tp-contact-icon flaticon-risk-management"></i>
-                                 </button>
-                                 <button class="tp-contact-btn tp-contact-item d-flex nav-link" id="v-pills-veichele-tab" data-bs-toggle="pill" data-bs-target="#v-pills-veichele" type="button" role="tab" aria-controls="v-pills-veichele" aria-selected="false">
-                                    <i class="tp-contact-icon flaticon-insurance-1"></i>
-                                 </button>
+                              </h2>
+                              <div id="order__collapse_two" class="accordion-collapse collapse"
+                                 aria-labelledby="order_two" data-bs-parent="#general_faqaccordion">
+                                 <div class="accordion-body tp-faq-details-para p-relative">
+                                    <p>Our experts analyze your requirements and suggest the most suitable coverage,
+                                       ensuring you get the best protection at the best price.</p>
+                                    <span class="p-absolute"><i class="flaticon-policy"></i></span>
+                                 </div>
                               </div>
                            </div>
-                           <div class="col-lg-5 pb-40">
-                              <div class="tp-contact-form-wrapper tp-black-bg9  tab-content" id="v-pills-tabContent">
-                                 <div class="tab-pane fade" id="v-pills-home1" role="tabpanel" aria-labelledby="v-pills-home1-tab">
-                                    <div class="tp-contact-form">
-                                     <form action="#">
-                                       <h2 class="tp-contact-form-title mb-30">Health Insurance</h2>
-                                        <div class="tp-contact-input mb-15">
-                                           <input type="text" name="full-name" placeholder="Full Name">
-                                        </div>
-                                        <div class="tp-contact-input mb-15">
-                                           <input type="text" name="email" placeholder="example@gmail.com">
-                                        </div>
-                                        <div class="tp-contact-input mb-20">
-                                           <textarea placeholder="Your Message Here"></textarea>
-                                        </div>
-                                        <div class="tp-contact-slider p-relative mb-45">
-                                           <label for="amount">Limits of Balance</label>
-                                           <input type="text" id="amount">
-                                           <div id="slider-range-min"></div>
-                                        </div>
-                                        <div class="tp-contact-form-btn d-flex align-items-center">
-                                           <button class="tp-btn tp-btn-green mr-30" type="submit">Send Message</button>
-                                           <div class="tp-contact-query">
-                                              <span>Been here before? <a href="#"> Check Your Query</a></span>
-                                           </div>
-                                        </div>
-                                     </form>
-                                    </div>
-                                  </div>
-                                 <div class="tab-pane fade show active" id="v-pills-health" role="tabpanel" aria-labelledby="v-pills-health-tab">
-                                   <div class="tp-contact-form">
+                           <div class="accordion-item tp-benifits-faq-list">
+                              <h2 class="accordion-header" id="order_three">
+                                 <button class="accordion-button collapsed tp-faq-btn-2" type="button"
+                                    data-bs-toggle="collapse" data-bs-target="#order__collapse_three"
+                                    aria-expanded="false" aria-controls="order__collapse_three">
+                                    How can I file an insurance claim?
+                                    <span class="accordion-btn"></span>
+                                 </button>
+                              </h2>
+                              <div id="order__collapse_three" class="accordion-collapse collapse"
+                                 aria-labelledby="order_three" data-bs-parent="#general_faqaccordion">
+                                 <div class="accordion-body tp-faq-details-para p-relative">
+                                    <p>Filing a claim is simple! Just contact our support team, submit the necessary
+                                       documents, and we’ll process your request quickly.</p>
+                                    <span class="p-absolute"><i class="flaticon-policy"></i></span>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-6 mb-40  wow fadeInLeft" data-wow-delay="100ms">
+                  <div class="tp-benifits-thumb">
+                     <img class="w-100" src="assets/img/banefits/01.png" alt="thumb">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <!-- tp-service-area-start -->
+      <div class="tp-service-area-family tp-orange-bg pt-135 pb-140">
+         <div class="container">
+            <div class="row">
+               <div class="col-12">
+                  <div class="tp-service-title-family mb-55 text-center">
+                     <span class="tp-section-title-pre-family section-title tp-split-in-right mb-10">What We Provide to
+                        Our
+                        Customers</span>
+                     <h2 class="tp-section-title tp-section-title-dark tp-split-in-left mb-30">We’re covering all
+                        the<br> Insurance Fields That You Need</h2>
+                  </div>
+               </div>
+            </div>
+            <div class="row tp-service-spacing">
+               <div class="col-xl-3 col-lg-6 col-md-6 mb-60 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".4s">
+                  <div class="tp-service-content-wrapper tp-service-colum-1 text-center">
+                     <span class="tp-service-icon mb-30">
+                        <i class="flaticon-mortgage"></i>
+                     </span>
+                     <div class="tp-service-content-">
+                        <h3 class="tp-service-title mb-15"><a href="#">Home Insurance</a></h3>
+                        <p class="tp-service-para mb-20">Secure your home with flexible coverage and peace of mind.
+                        </p>
+                        <span class="tp-service-icon-2"><a href="#"><i class="flaticon-right-arrow"></i></a></span>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-lg-6 col-md-6 mb-60 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".6s">
+                  <div class="tp-service-content-wrapper tp-service-colum-2 text-center">
+                     <span class="tp-service-icon mb-30">
+                        <i class="flaticon-car"></i>
+                     </span>
+                     <div class="tp-service-content-">
+                        <h3 class="tp-service-title mb-15"><a href="#">Car Insurance</a></h3>
+                        <p class="tp-service-para mb-20">Drive worry-free with our reliable and affordable plans.
+                        </p>
+                        <span class="tp-service-icon-2"><a href="#"><i class="flaticon-right-arrow"></i></a></span>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-lg-6 col-md-6 mb-60 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".8s">
+                  <div class="tp-service-content-wrapper tp-service-colum-3 text-center">
+                     <span class="tp-service-icon mb-30">
+                        <i class="flaticon-risk-management"></i>
+                     </span>
+                     <div class="tp-service-content-">
+                        <h3 class="tp-service-title mb-15"><a href="#">Life Insurance</a></h3>
+                        <p class="tp-service-para mb-20">Protect your loved ones with a future-ready insurance plan.
+                        </p>
+                        <span class="tp-service-icon-2"><a href="#"><i class="flaticon-right-arrow"></i></a></span>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-lg-6 col-md-6 mb-60 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".9s">
+                  <div class="tp-service-content-wrapper tp-service-colum-4 text-center">
+                     <span class="tp-service-icon mb-30">
+                        <i class="flaticon-medical-insurance"></i>
+                     </span>
+                     <div class="tp-service-content-">
+                        <h3 class="tp-service-title mb-15"><a href="#">Health Insurance</a></h3>
+                        <p class="tp-service-para mb-20">Stay covered with the best medical protection for you and your
+                           family.
+                        </p>
+                        <span class="tp-service-icon-2"><a href="#"><i class="flaticon-right-arrow"></i></a></span>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-12">
+                  <div class="tp-service-link text-center">
+                     <p> Plan Smart. Live Safe. Insure with Confidence. </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- tp-service-area-end -->
+
+
+      <!-- testimonial-area-start -->
+      <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
+         <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
+            src="assets/img/testimonial/family/main-img.png" alt="main">
+         <div class="container">
+            <div class="row mb-15 d-flex align-items-end">
+               <div class="col-lg-6 mb-30">
+                  <div class="tp-testimonial-title-wrapper">
+                     <span
+                        class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
+                        Testimonials</span>
+                     <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say About
+                        Us</h2>
+                  </div>
+               </div>
+               <div class="col-lg-6 mb-45">
+                  <div class="tp-testimonial-navigation f-right">
+                     <span class="tp-testimonial-family-prev"><i class="fa-sharp fa-regular fa-arrow-left"></i></span>
+                     <span class="tp-testimonial-family-next"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="swiper-container tp-testimonial-slide-family">
+                  <div class="swiper-wrapper">
+                     <div class="swiper-slide">
+                        <div class="tp-testimonial-wrapper-family">
+                           <div class="d-flex align-items-center justify-content-between mb-20">
+                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                    src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="01">
+                                 <div class="tp-testimonial-user">
+                                    <h6 class="tp-testimonial-user-title">Sanya R.</h6>
+                                 </div>
+                              </div>
+                              <div class="tp-testimonial-quote">
+                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                              </div>
+                           </div>
+                           <div class="tp-testimonial-content-wrapper">
+                              <p class="tp-testimonial-para-family-2 mb-20">Absolutely fantastic experience! The
+                                 service exceeded my expectations, and I feel more secure than ever. Highly
+                                 recommended!</p>
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="tp-testimonial-wrapper-family">
+                           <div class="d-flex align-items-center justify-content-between mb-20">
+                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                    src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="01">
+                                 <div class="tp-testimonial-user">
+                                    <h6 class="tp-testimonial-user-title">Vikram K.</h6>
+                                 </div>
+                              </div>
+                              <div class="tp-testimonial-quote">
+                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                              </div>
+                           </div>
+                           <div class="tp-testimonial-content-wrapper">
+
+                              <p class="tp-testimonial-para-family-2 mb-20">From consultation to claim settlement,
+                                 everything was smooth and professional. Highly recommend their services!</p>
+
+                           </div>
+                        </div>
+                     </div>
+                     <div class="swiper-slide">
+                        <div class="tp-testimonial-wrapper-family">
+                           <div class="d-flex align-items-center justify-content-between mb-20">
+                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                    src="https://img.icons8.com/ios-filled/50/user-male-circle.png" alt="01">
+                                 <div class="tp-testimonial-user">
+                                    <h6 class="tp-testimonial-user-title">Varun Singh</h6>
+                                 </div>
+                              </div>
+                              <div class="tp-testimonial-quote">
+                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                              </div>
+                           </div>
+                           <div class="tp-testimonial-content-wrapper">
+
+                              <p class="tp-testimonial-para-family-2 mb-20">I never knew getting insured could be this
+                                 easy! Great coverage options and excellent customer service</p>
+
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- testimonial-area-end -->
+
+
+      <!-- tp-contact-area-start -->
+      <div class="tp-body-shape p-relative">
+         <img class="tp-body-shape-img p-absolute" src="assets/img/body-shape/body-shape4.png" alt="body">
+      </div>
+      <div class="tp-contact-area  pb-140 p-relative">
+         <img class="tp-contact-shape-2 tree-move p-absolute" src="assets/img/contact/contact-shape-2.png" alt="shape">
+         <img class="tp-contact-shape-3 d-none d-xl-block tptranslateY2 p-absolute"
+            src="assets/img/contact/contact-shape-3.png" alt="shape3">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="tp-contact-container p-relative">
+                     <span class="tp-contact-fill d-none d-xl-block p-absolute">Fill the<br> Form</span>
+                     <img class="tp-contact-shape-4 d-none d-xl-block tpswing p-absolute"
+                        src="assets/img/contact/shine.png" alt="shine">
+                     <div class="row">
+                        <div class="col-lg-5 pb-40">
+                           <div class="tp-contact-content p-relative h-100">
+                              <img class="tp-contact-shape tptranslateX2 d-none d-lg-block p-absolute"
+                                 src="assets/img/contact/contact-shape.png" alt="contact">
+                              <div class="tp-contact-icon mb-35">
+                                 <img src="assets/img/contact/headphone.svg" alt="headphone">
+                              </div>
+                              <h3 class="tp-contact-title section-title tp-split-in-left mb-20">Let’s Talk With<br>
+                                 Experience<br> Advisors.</h3>
+                              <p class="tp-contact-para">Have questions or need assistance? Fill out the form below, and
+                                 our experts will get back to you shortly!</p>
+                           </div>
+                        </div>
+                        <div class="col-lg-2 pb-40">
+                           <div class="nav tp-contact-list" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                              <button class="tp-contact-btn tp-contact-item d-flex nav-link">
+                                 <i class="tp-contact-icon flaticon-trust"></i>
+                              </button>
+                              <button class="tp-contact-btn tp-contact-item d-flex nav-link">
+                                 <i class="tp-contact-icon flaticon-real-estate"></i>
+                              </button>
+                              <button class="tp-contact-btn tp-contact-item d-flex nav-link">
+                                 <i class="tp-contact-icon flaticon-risk-management"></i>
+                              </button>
+                              <button class="tp-contact-btn tp-contact-item d-flex nav-link">
+                                 <i class="tp-contact-icon flaticon-insurance-1"></i>
+                              </button>
+                           </div>
+                        </div>
+                        <div class="col-lg-5 pb-40">
+                           <div class="tp-contact-form-wrapper tp-black-bg9  tab-content" id="v-pills-tabContent">
+
+                              <div class="tab-pane fade show active" id="v-pills-health" role="tabpanel"
+                                 aria-labelledby="v-pills-health-tab">
+                                 <div class="tp-contact-form">
                                     <form action="#">
                                        <h2 class="tp-contact-form-title mb-30">Home Insurance</h2>
                                        <div class="tp-contact-input mb-15">
@@ -961,278 +579,28 @@
                                        <div class="tp-contact-input mb-15">
                                           <input type="text" name="email" placeholder="example@gmail.com">
                                        </div>
+                                       <div class="tp-contact-input mb-15">
+                                          <input type="number" name="phone" placeholder="Phone Number">
+                                       </div>
+                                       <div class="tp-contact-input mb-15">
+                                          <select name="query_type">
+                                             <option value="" disabled selected>Select Query Type</option>
+                                             <option value="general">General Inquiry</option>
+                                             <option value="insurance_plan">Insurance Plan</option>
+                                             <option value="claim_support">Claim Support</option>
+                                             <option value="others">Others</option>
+                                          </select>
+                                       </div>
+
                                        <div class="tp-contact-input mb-20">
                                           <textarea placeholder="Your Message Here"></textarea>
                                        </div>
-                                       <div class="tp-contact-slider p-relative mb-45">
-                                          <label for="amount2">Limits of Balance</label>
-                                          <input type="text" id="amount2">
-                                          <div id="slider-range-min2"></div>
-                                       </div>
-                                       <div class="tp-contact-form-btn d-flex align-items-center">
+
+                                       <div
+                                          class="tp-contact-form-btn d-flex align-items-center justify-content-center">
                                           <button class="tp-btn tp-btn-green mr-30" type="submit">Send Message</button>
-                                          <div class="tp-contact-query">
-                                             <span>Been here before? <a href="#"> Check Your Query</a></span>
-                                          </div>
                                        </div>
                                     </form>
-                                   </div>
-                                 </div>
-                                 <div class="tab-pane fade" id="v-pills-life" role="tabpanel" aria-labelledby="v-pills-life-tab">
-                                   <div class="tp-contact-form">
-                                    <form action="#">
-                                       <h2 class="tp-contact-form-title mb-30">Life Insurance</h2>
-                                       <div class="tp-contact-input mb-15">
-                                          <input type="text" name="full-name" placeholder="Full Name">
-                                       </div>
-                                       <div class="tp-contact-input mb-15">
-                                          <input type="text" name="email" placeholder="example@gmail.com">
-                                       </div>
-                                       <div class="tp-contact-input mb-20">
-                                          <textarea placeholder="Your Message Here"></textarea>
-                                       </div>
-                                       <div class="tp-contact-slider p-relative mb-45">
-                                          <label for="amount3">Limits of Balance</label>
-                                          <input type="text" id="amount3">
-                                          <div id="slider-range-min3"></div>
-                                       </div>
-                                       <div class="tp-contact-form-btn d-flex align-items-center">
-                                          <button class="tp-btn tp-btn-green mr-30" type="submit">Send Message</button>
-                                          <div class="tp-contact-query">
-                                             <span>Been here before? <a href="#"> Check Your Query</a></span>
-                                          </div>
-                                       </div>
-                                    </form>
-                                   </div>
-                                 </div>
-                                 <div class="tab-pane fade" id="v-pills-veichele" role="tabpanel" aria-labelledby="v-pills-veichele-tab">
-                                   <div class="tp-contact-form">
-                                    <form action="#">
-                                       <h2 class="tp-contact-form-title mb-30">Veichele Insurance</h2>
-                                       <div class="tp-contact-input mb-15">
-                                          <input type="text" name="full-name" placeholder="Full Name">
-                                       </div>
-                                       <div class="tp-contact-input mb-15">
-                                          <input type="text" name="email" placeholder="example@gmail.com">
-                                       </div>
-                                       <div class="tp-contact-input mb-20">
-                                          <textarea placeholder="Your Message Here"></textarea>
-                                       </div>
-                                       <div class="tp-contact-slider p-relative mb-45">
-                                          <label for="amount4">Limits of Balance</label>
-                                          <input type="text" id="amount4">
-                                          <div id="slider-range-min4"></div>
-                                       </div>
-                                       <div class="tp-contact-form-btn d-flex align-items-center">
-                                          <button class="tp-btn tp-btn-green mr-30" type="submit">Send Message</button>
-                                          <div class="tp-contact-query">
-                                             <span>Been here before? <a href="#"> Check Your Query</a></span>
-                                          </div>
-                                       </div>
-                                    </form>
-                                   </div>
-                                 </div>
-                               </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-contact-area-end -->
-
-         <!-- tp-blog-area-start -->
-         <div class="tp-body-shape p-relative">
-            <img class="tp-body-shape-img-2 p-absolute" src="assets/img/body-shape/shap4.png" alt="body">
-         </div>
-         <div class="tp-blog-area  pb-100">
-            <div class="container">
-               <div class="row">
-                  <div class="col-12 mb-50">
-                     <div class="tp-blog-title-wrapper text-center">
-                        <span class="tp-section-title-pre tp-section-title-pre-top tp-split-in-right mb-20">Our Blog Post</span>
-                        <h2 class="tp-section-title tp-split-in-left">Read Our Latest Blog</h2>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40 wow fadeInUp" data-wow-delay="00ms">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/01.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">health</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Wise Spending Habits, 13 Tips for Maximizing Your Money</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40 wow fadeInUp" data-wow-delay="100ms">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/02.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">insurance</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Everyday Accounts to Keep Track of Your Finances</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xl-4 col-lg-6 col-md-6 mb-40 wow fadeInUp" data-wow-delay="200ms">
-                     <div class="tp-blog-wrapper">
-                        <div class="tp-blog-thumb">
-                           <a class="tp-blog-thumb-img" href="blog-details.html">
-                              <img src="assets/img/blog/03.jpg" alt="blog">
-                           </a>
-                        </div>
-                        <div class="tp-blog-content">
-                           <div class="tp-blog-info">
-                              <span class="tp-blog-info-left"><a href="#">Home</a></span>
-                              <span class="tp-blog-info-right">23 June, 2024</span>
-                           </div>
-                           <h3 class="tp-blog-title mb-35"><a href="blog-details.html">Save With Our Lowest Ever Four Fixed Rate Home Loan</a></h3>
-                           <div class="tp-blog-btn">
-                              <a href="blog-details.html">Read More 
-                                 <span><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                              </a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- tp-blog-area-end -->
-
-         <!-- tp-brand-area-start -->
-         <div class="tp-brand-area pb-140">
-            <div class="container">
-               <div class="row tp-brand-area-spacing">
-                  <div class="col-lg-12">
-                     <div class="swiper-container tp-brand-slider">
-                        <div class="swiper-wrapper">
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item-secondary">
-                                    <img src="assets/img/brand/home-1/brand01.svg" alt="brand">
-                                 </div>
-                                 <div class="tp-brand-item-img">
-                                    <img src="assets/img/brand/home-1/brand1.svg" alt="brand">
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand02.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brand2.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand03.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brand4.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand04.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brand5.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand05.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brans7.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand03.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brand4.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand04.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brand5.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand05.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brans7.svg" alt="brand">
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                           <div class="swiper-slide">
-                              <div class="tp-brand-item p-relative">
-                                 <div class="tp-brand-item">
-                                    <div class="tp-brand-item-secondary">
-                                       <img src="assets/img/brand/home-1/brand03.svg" alt="brand">
-                                    </div>
-                                    <div class="tp-brand-item-img">
-                                       <img src="assets/img/brand/home-1/brand4.svg" alt="brand">
-                                    </div>
                                  </div>
                               </div>
                            </div>
@@ -1242,27 +610,30 @@
                </div>
             </div>
          </div>
-         <!-- tp-brand-area-end -->
+      </div>
+      <!-- tp-contact-area-end -->
 
-         <!-- tp-cta-area-start -->
-         <div class="tp-cta-area p-relative">
-            <img class="tp-cta-shape d-none d-xxl-block p-absolute" src="assets/img/cta/shape2.png" alt="shape">
-            <div class="container">
-               <div class="row">
-                  <div class="col-lg-12">
-                     <div class="tp-cta-wrapper p-relative fix">
-                        <img class="tp-cta-shape-2 tptranslateX2 p-absolute" src="assets/img/cta/shape.png" alt="shape">
-                        <div class="row align-items-center">
-                           <div class="col-lg-8 mb-20">
-                              <div class="tp-cta-content">
-                                 <h6 class="tp-section-title-pre tp-cta-sub-title mb-15 tp-split-in-right">You are Welcome</h6>
-                                 <h2 class="tp-cta-title tp-split-in-left tp-section-title">Start Tracking Your Claims</h2>
-                              </div>
-                           </div>
-                           <div class="col-lg-4 mb-20">
-                              <div class="tp-cta-btn f-right">
-                                 <a class="tp-btn" href="contact.html">Track Your Claim</a>
-                              </div>
+
+
+      <!-- tp-video-area-start -->
+      <div class="tp-contact-area-health section-plr-3 bg-position jarallax"
+         data-background="assets/img/contact/health/01.jpg">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-5 col-lg-7 col-md-8 col-sm-12 wow fadeInUp" data-wow-delay=".2s"
+                  data-wow-duration="1s">
+                  <div class="tp-contact-health-bg mt-180 mb-180">
+                     <div class="tp-contact-health-content">
+                        <h2 class="tp-contact-health-title mb-30"> Got Questions? <span>We’ve Got Answers!</span> 👋
+                        </h2>
+                        <div class="tp-contact-btn-health mb-35 lineheight-1">
+                           <a class="tp-btn tp-btn-green4" href="contact.html">Request a Call Back</a>
+                        </div>
+                        <div class="tp-contact-health d-flex align-items-center">
+                           <span class="tp-contact-health-icon mr-20"><i class="flaticon-telephone"></i></span>
+                           <div class="tp-contact-health-number">
+                              <span>Call to Expert</span>
+                              <a href="tel:+">+91 99999 99999</a>
                            </div>
                         </div>
                      </div>
@@ -1270,34 +641,222 @@
                </div>
             </div>
          </div>
-         <!-- tp-cta-area-start -->
-      </main>
-      <!-- footer-area-start -->
-      <?php
-         include('footer.php');
-      ?>  
-      <!-- footer-area-end -->
-      <!-- JS here -->
-      <script src="assets/js/vendor/jquery.js"></script>
-      <script src="assets/js/vendor/waypoints.js"></script>
-      <script src="assets/js/bootstrap-bundle.js"></script>
-      <script src="assets/js/swiper-bundle.js"></script>
-      <script src="assets/js/ion.rangeSlider.min.js"></script>
-      <script src="assets/js/magnific-popup.js"></script>
-      <script src="assets/js/nice-select.js"></script>
-      <script src="assets/js/jarallax.js"></script>
-      <script src="assets/js/purecounter.js"></script>
-      <script src="assets/js/wow.js"></script>
-      <script src="assets/js/ajax-form.js"></script>
-      <!-- gsap js -->
-      <script src="assets/js/jsap/gsap.js"></script>
-      <script src="assets/js/jsap/scrolltrigger.min.js"></script>
-      <script src="assets/js/jsap/splittext.min.js"></script>
-      <script src="assets/js/jsap/careox-split.js"></script>
-       <!-- template js -->
-      <script src="assets/js/slider-init.js"></script>
-      <script src="assets/js/main.js"></script>
-   </body>
+      </div>
+      <!-- tp-video-area-end -->
 
-<!-- Mirrored from html.hixstudio.net/insurai-prev/insurai/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 Feb 2025 13:00:58 GMT -->
+
+      <!-- tp-blog-area-start -->
+      <div class="tp-blog-area pt-130 pb-100">
+         <div class="container">
+            <div class="row">
+               <div class="col-12 mb-40">
+                  <div class="tp-blog-title-wrapper text-center">
+                     <span class="tp-section-title-pre-family section-title tp-split-in-right">Read Our Blog</span>
+                     <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">Our latest News & Articles</h2>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-6 col-md-6 mb-35 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".2s">
+                  <div class="tp-blog-wrapper tp-blog-wrapper-family">
+                     <div class="tp-blog-thumb mb-20">
+                        <a class="tp-blog-thumb-img" href="blog-details.html">
+                           <img class="w-100" src="assets/img/blog/family/01.jpg" alt="blog">
+                        </a>
+                     </div>
+                     <div class="tp-blog-content-family">
+
+                        <h3 class="tp-blog-title tp-blog-title-family mb-30">
+                           <a href="blog-details.html">Greetings and Salutations Wilcox Family! Todays post</a>
+                        </h3>
+                        <div class="tp-blog-date-family">
+                           <span><i class="fa-light fa-calendar"></i> December 22, 2024</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-6 col-md-6 mb-35 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".4s">
+                  <div class="tp-blog-wrapper tp-blog-wrapper-family">
+                     <div class="tp-blog-thumb mb-20">
+                        <a class="tp-blog-thumb-img" href="blog-details.html">
+                           <img class="w-100" src="assets/img/blog/family/02.jpg" alt="blog">
+                        </a>
+                     </div>
+                     <div class="tp-blog-content-family">
+
+                        <h3 class="tp-blog-title tp-blog-title-family mb-30">
+                           <a href="blog-details.html">Wise Spending Habits, 13 Tips for Maximizing Your Money</a>
+                        </h3>
+                        <div class="tp-blog-date-family">
+                           <span><i class="fa-light fa-calendar"></i> December 22, 2024</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-4 col-lg-6 col-md-6 mb-35 wow fadeInUp" data-wow-duration=".9s" data-wow-delay=".6s">
+                  <div class="tp-blog-wrapper tp-blog-wrapper-family">
+                     <div class="tp-blog-thumb mb-20">
+                        <a class="tp-blog-thumb-img" href="blog-details.html">
+                           <img class="w-100" src="assets/img/blog/family/03.jpg" alt="blog">
+                        </a>
+                     </div>
+                     <div class="tp-blog-content-family">
+
+                        <h3 class="tp-blog-title tp-blog-title-family mb-30">
+                           <a href="blog-details.html">With Christmas Just Around the Corner, it’s Important</a>
+                        </h3>
+                        <div class="tp-blog-date-family">
+                           <span><i class="fa-light fa-calendar"></i> December 22, 2024</span>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- tp-blog-area-end -->
+      <div class="tp-cta-area tp-cta-family-spacing bg-position pt-85 pb-100 p-relative"
+         data-background="assets/img/cta/family/cta-bg.jpg">
+         <img class="tp-cta-shape-family d-none d-xxl-block p-absolute" src="assets/img/cta/family/02.png" alt="cta">
+         <img class="tp-cta-shape-family-2 d-none d-xl-block p-absolute" src="assets/img/cta/family/card.png" alt="cta">
+         <div class="container-fluid">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="tp-cta-title-family-wrapper text-center">
+                     <h2 class="tp-cta-title-family section-title tp-split-in-right mb-40">Have questions? <br> Let’s
+                        secure your future together!</h2>
+                     <div class="lineheight-1 tp-cta-family-btn">
+                        <a class="tp-btn tp-btn-yellow" href="contact.html">Contact Us</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </main>
+   <!-- footer-area-start -->
+   <footer>
+      <div class="tp-footer-area tp-dark-bg pt-120 pb-15">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
+                  <div class="tp-footer-widget">
+                     <div class="tp-footer-logo mb-30">
+                        <a href="index.html"><img src="assets/img/logo/logo-white.svg" alt="logo"></a>
+                     </div>
+                     <div class="tp-footer-widget-social-family tp-footer-widget-social-home">
+                        <p class="text-justify">Providing trusted insurance solutions to secure your future with
+                           confidence and peace of mind.</p>
+                        <a class="tp-footer-widget-social-phone mb-25" href="tel:(+00)67834598568">+91-999999 99999</a>
+                        <div class="tp-footer-widget-social-info tp-footer-widget-social-info-home">
+                           <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                           <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                           <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                           <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
+                  <div class="tp-footer-widget-family tp-footer-family-col-2">
+                     <h4 class="tp-footer-widget-title-family tp-footer-widget-title-home mb-20">Information</h4>
+                     <div class="tp-footer-widget-link-family tp-footer-widget-link-home">
+                        <ul>
+                           <li>
+                              <a href="#">Home</a>
+                           </li>
+                           <li>
+                              <a href="#">About US</a>
+                           </li>
+                           <li>
+                              <a href="#">Blogs</a>
+                           </li>
+                           <li>
+                              <a href="#">Contact</a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 mb-50">
+                  <div class="tp-footer-widget-family tp-footer-family-col-3">
+                     <h4 class="tp-footer-widget-title-family tp-footer-widget-title-home mb-20">Insurance</h4>
+                     <div class="tp-footer-widget-link-family tp-footer-widget-link-home">
+                        <ul>
+                           <li>
+                              <a href="#">Home Insurance</a>
+                           </li>
+                           <li>
+                              <a href="#"> Car Insurance</a>
+                           </li>
+                           <li>
+                              <a href="#">Health Insurance</a>
+                           </li>
+                           <li>
+                              <a href="#">Life Insurance</a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-9 mb-50">
+                  <div class="tp-footer-widget-social-family tp-footer-family-col-4">
+                     <h4 class="tp-footer-widget-title-family tp-footer-widget-title-home mb-25">Claims Assistance</h4>
+                     <div class="tp-footer-widget-link-family tp-footer-widget-link-home">
+                        <ul>
+                           <li>
+                              <a href="#">Loan protection policy Claims</a>
+                           </li>
+                           <li>
+                              <a href="#"> Travel Insurance Claims</a>
+                           </li>
+                           <li>
+                              <a href="#">Motor Insurance Claims</a>
+                           </li>
+                           <li>
+                              <a href="#">Short Settled Insurance Claims</a>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="tp-footer-copyright tp-footer-copyright-home">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="tp-footer-copyright-text tp-footer-copyright-text-home text-center">
+                     <p>
+                        <a href="#">© <span id="year"></span> Claims Ok</a> – Designed & Developed by <a href="https://auctech.in" target="_blank" class="text-warning">Auctech MarCom</a>
+                    </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </footer>
+   <!-- footer-area-end -->
+   <!-- JS here -->
+   <script src="assets/js/vendor/jquery.js"></script>
+   <script src="assets/js/vendor/waypoints.js"></script>
+   <script src="assets/js/bootstrap-bundle.js"></script>
+   <script src="assets/js/swiper-bundle.js"></script>
+   <script src="assets/js/ion.rangeSlider.min.js"></script>
+   <script src="assets/js/magnific-popup.js"></script>
+   <script src="assets/js/nice-select.js"></script>
+   <script src="assets/js/jarallax.js"></script>
+   <script src="assets/js/purecounter.js"></script>
+   <script src="assets/js/wow.js"></script>
+   <script src="assets/js/ajax-form.js"></script>
+   <!-- gsap js -->
+   <script src="assets/js/jsap/gsap.js"></script>
+   <script src="assets/js/jsap/scrolltrigger.min.js"></script>
+   <script src="assets/js/jsap/splittext.min.js"></script>
+   <script src="assets/js/jsap/careox-split.js"></script>
+   <!-- template js -->
+   <script src="assets/js/slider-init.js"></script>
+   <script src="assets/js/main.js"></script>
+</body>
+
+
 </html>
