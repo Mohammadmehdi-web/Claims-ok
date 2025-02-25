@@ -21,19 +21,19 @@
                            <li class="has-dropdown">
                               <a href="#">Insurance</a>
                               <ul class="tp-submenu submenu">
-                                 <li><a href="team-details.html">Home Insurance</a></li>
-                                 <li><a href="shop.html">Car Insurance</a></li>
-                                 <li><a href="about.html">Health Insurance</a></li>
-                                 <li><a href="team.html">Life Insurance</a></li>
+                                 <li><a href="home-insurance.php">Home Insurance</a></li>
+                                 <li><a href="car-insurance.php">Car Insurance</a></li>
+                                 <li><a href="health-insurance.php">Health Insurance</a></li>
+                                 <li><a href="life-insurance.php">Life Insurance</a></li>
                               </ul>
                            </li>
                            <li class="has-dropdown">
                               <a href="#">Claims Assistance</a>
                               <ul class="tp-submenu submenu">
-                                 <li><a href="shop-details.html">Loan protection policy Claims</a></li>
-                                 <li><a href="cart.html">Travel Insurance Claims</a></li>
-                                 <li><a href="checkout.html">Motor Insurance Claims</a></li>
-                                 <li><a href="testimonial.html">Short Settled Insurance Claims</a></li>
+                                 <li><a href="loan-protection.php">Loan protection policy Claims</a></li>
+                                 <li><a href="short-settlement.php">short-settlement Of Claims</a></li>
+                                 <li><a href="delay-in-claims.php">Delay in Claim</a></li>
+                                 <li><a href="rejection-of-claims.php">Rejection of Claim</a></li>
                               </ul>
                            </li>
                            <li> <a href="blogs.php">Blog</a> </li>
