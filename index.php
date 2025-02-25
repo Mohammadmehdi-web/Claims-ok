@@ -267,7 +267,233 @@
             </div>
         </div>
         <!-- tp-about-area-end -->
+        <div id="insurance" class="tp-service-area pt-135 pb-140 fix bg-position"
+            data-background="assets/img/service/travel/bg.jpg">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-7">
+                        <div class="tp-about-family-title text-center mb-60">
+                            <span
+                                class="tp-section-title-pre-family tp-section-title-pre-travel section-title tp-split-in-right mb-10">What
+                                We Provide Our Customers</span>
+                            <h2 class="tp-section-title tp-section-title-dark-3 tp-split-in-left">We’re Giving all the
+                                Insurance Services to You</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="swiper-container tp-service-travel-slider">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/03.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-mortgage"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/home-insurance.php">Home
+                                                            Insurance</a></h4>
+                                                    <p class="mb-25">Secure your home with flexible coverage and peace
+                                                        of mind.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/home-insurance.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-car"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/car-insurance.php">Car
+                                                            Insurance</a></h4>
+                                                    <p class="mb-25">Drive worry-free with our reliable and affordable
+                                                        plans.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/car-insurance.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
 
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-risk-management"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/life-insurance.php">Life
+                                                            Insurance</a></h4>
+                                                    <p class="mb-25">Trip cancellation and interrup insurance plan
+                                                        designed to protect against risks</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/life-insurance.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/health-insurance.php">Health
+                                                            Insurance</a></h4>
+                                                    <p class="mb-25">Stay covered with the best medical protection for
+                                                        you and your family.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/health-insurance.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/loan-protection.php">Loan
+                                                            Insurance</a></h4>
+                                                    <p class="mb-25">Loan Protection Policy Claims ensure repayment
+                                                        coverage during unforeseen circumstances like illness.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/loan-protection.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/short-settlement.php">short-settlement
+                                                            Of Claims</a></h4>
+                                                    <p class="mb-25">A streamlined process to settle loan claims quickly
+                                                        during financial hardship, offering immediate relief.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/short-settlement.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/delay-in-claims.php">Delay
+                                                            in Claim</a></h4>
+                                                    <p class="mb-25">Claim delays occur due to missing documents,
+                                                        further investigation, or complications in verifying claim
+                                                        details.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/delay-in-claims.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="tp-service-travel-card">
+                                        <div class="row gx-0  align-items-center">
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-thumb">
+                                                    <img class="w-100" src="assets/img/service/travel/02.jpg"
+                                                        alt="travel">
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-6 col-md-6 col-12">
+                                                <div class="tp-service-travel-content">
+                                                    <span class="tp-service-travel-icon mb-30"><i
+                                                            class="flaticon-health-insurance-2"></i></span>
+                                                    <h4 class="tp-service-travel-title mb-15"><a
+                                                            href="https://auctest.rf.gd/claims-ok/rejection-of-claims.php">Rejection
+                                                            of Claim</a></h4>
+                                                    <p class="mb-25">Claim rejection occurs due to ineligible coverage,
+                                                        incomplete information, or failure to meet policy conditions.
+                                                    </p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/rejection-of-claims.php">Read
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="tp-benifits-area pb-90">
             <div class="container">
                 <div class="row">
@@ -565,16 +791,20 @@
                                         <div class="tab-pane fade show active" id="v-pills-health" role="tabpanel"
                                             aria-labelledby="v-pills-health-tab">
                                             <div class="tp-contact-form">
-                                                <form method="POST" action="save_contact.php" id="quiryForm" class="contact-form">
+                                                <form method="POST" action="save_contact.php" id="quiryForm"
+                                                    class="contact-form">
 
                                                     <div class="tp-contact-input mb-15">
-                                                        <input type="text" name="name" id="name" placeholder="Full Name">
+                                                        <input type="text" name="name" id="name"
+                                                            placeholder="Full Name">
                                                     </div>
                                                     <div class="tp-contact-input mb-15">
-                                                        <input type="text" name="email" id="email" placeholder="example@gmail.com">
+                                                        <input type="text" name="email" id="email"
+                                                            placeholder="example@gmail.com">
                                                     </div>
                                                     <div class="tp-contact-input mb-15">
-                                                        <input type="number" name="phone" id="phone" placeholder="Phone Number">
+                                                        <input type="number" name="phone" id="phone"
+                                                            placeholder="Phone Number">
                                                     </div>
                                                     <div class="tp-contact-input mb-15">
                                                         <select name="type" id="type">
@@ -588,12 +818,14 @@
                                                     </div>
 
                                                     <div class="tp-contact-input mb-20 mt-5">
-                                                        <textarea type="text" name="message" id="message" placeholder="Your Message Here"></textarea>
+                                                        <textarea type="text" name="message" id="message"
+                                                            placeholder="Your Message Here"></textarea>
                                                     </div>
 
                                                     <div
                                                         class="tp-contact-form-btn d-flex align-items-center justify-content-center">
-                                                        <button class="tp-btn tp-btn-green mr-30" type="submit" name="submit">Send
+                                                        <button class="tp-btn tp-btn-green mr-30" type="submit"
+                                                            name="submit">Send
                                                             Message</button>
                                                     </div>
                                                 </form>
@@ -748,30 +980,39 @@
     <script src="assets/js/slider-init.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script>
-$(document).ready(function() {
-    $('#quiryForm').submit(function(e) {
-        e.preventDefault();
+    <script>
+    $(document).ready(function() {
+        $('#quiryForm').submit(function(e) {
+            e.preventDefault();
 
-        var formData = $(this).serialize();
+            var formData = $(this).serialize();
 
-        $.ajax({
-            url: 'save_contact.php',
-            type: 'POST',
-            data: formData,
-            success: function(response) {
-                if (response == 'success') {
+            $.ajax({
+                url: 'save_contact.php',
+                type: 'POST',
+                data: formData,
+                success: function(response) {
+                    if (response == 'success') {
 
-                    Swal.fire({
-                        icon: 'success',
-                        title: 'Message Sent!',
-                        text: 'Your message has been sent successfully.',
-                    }).then(function() {
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Message Sent!',
+                            text: 'Your message has been sent successfully.',
+                        }).then(function() {
 
-                        $('#quiryForm')[0]
-                            .reset();
-                    });
-                } else {
+                            $('#quiryForm')[0]
+                                .reset();
+                        });
+                    } else {
+
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Oops...',
+                            text: 'Something went wrong. Please try again later.',
+                        });
+                    }
+                },
+                error: function() {
 
                     Swal.fire({
                         icon: 'error',
@@ -779,19 +1020,10 @@ $(document).ready(function() {
                         text: 'Something went wrong. Please try again later.',
                     });
                 }
-            },
-            error: function() {
-
-                Swal.fire({
-                    icon: 'error',
-                    title: 'Oops...',
-                    text: 'Something went wrong. Please try again later.',
-                });
-            }
+            });
         });
     });
-});
-</script>
+    </script>
 </body>
 
 

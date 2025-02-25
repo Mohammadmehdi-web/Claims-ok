@@ -149,7 +149,6 @@
         </div>
         <!-- tp-about-area-end -->
 
-        <!-- tp-service-area-start -->
         <div id="insurance" class="tp-service-area pt-135 pb-140 fix bg-position"
             data-background="assets/img/service/travel/bg.jpg">
             <div class="container">
@@ -182,10 +181,12 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-mortgage"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Home Insurance</a></h4>
+                                                            href="https://auctest.rf.gd/claims-ok/home-insurance.php">Home
+                                                            Insurance</a></h4>
                                                     <p class="mb-25">Secure your home with flexible coverage and peace
                                                         of mind.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                    <a href="https://auctest.rf.gd/claims-ok/home-insurance.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -205,10 +206,12 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-car"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Car Insurance</a></h4>
+                                                            href="https://auctest.rf.gd/claims-ok/car-insurance.php">Car
+                                                            Insurance</a></h4>
                                                     <p class="mb-25">Drive worry-free with our reliable and affordable
                                                         plans.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                    <a href="https://auctest.rf.gd/claims-ok/car-insurance.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -229,10 +232,12 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-risk-management"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Life Insurance</a></h4>
+                                                            href="https://auctest.rf.gd/claims-ok/life-insurance.php">Life
+                                                            Insurance</a></h4>
                                                     <p class="mb-25">Trip cancellation and interrup insurance plan
                                                         designed to protect against risks</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                    <a href="https://auctest.rf.gd/claims-ok/life-insurance.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -252,10 +257,12 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-health-insurance-2"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Health Insurance</a></h4>
+                                                            href="https://auctest.rf.gd/claims-ok/health-insurance.php">Health
+                                                            Insurance</a></h4>
                                                     <p class="mb-25">Stay covered with the best medical protection for
                                                         you and your family.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                    <a href="https://auctest.rf.gd/claims-ok/health-insurance.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -275,10 +282,12 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-health-insurance-2"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Loan Insurance</a></h4>
+                                                            href="https://auctest.rf.gd/claims-ok/loan-protection.php">Loan
+                                                            Insurance</a></h4>
                                                     <p class="mb-25">Loan Protection Policy Claims ensure repayment
                                                         coverage during unforeseen circumstances like illness.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                    <a href="https://auctest.rf.gd/claims-ok/loan-protection.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -298,9 +307,12 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-health-insurance-2"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Travel Insurance</a></h4>
-                                                    <p class="mb-25">Travel insurance provides coverage for trip cancellations, medical emergencies, and losses.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                            href="https://auctest.rf.gd/claims-ok/short-settlement.php">short-settlement
+                                                            Of Claims</a></h4>
+                                                    <p class="mb-25">A streamlined process to settle loan claims quickly
+                                                        during financial hardship, offering immediate relief.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/short-settlement.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -320,9 +332,13 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-health-insurance-2"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Motor Insurance</a></h4>
-                                                    <p class="mb-25">Motor insurance covers vehicle damage, theft, accidents, and liability protection.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                            href="https://auctest.rf.gd/claims-ok/delay-in-claims.php">Delay
+                                                            in Claim</a></h4>
+                                                    <p class="mb-25">Claim delays occur due to missing documents,
+                                                        further investigation, or complications in verifying claim
+                                                        details.</p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/delay-in-claims.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -342,9 +358,13 @@
                                                     <span class="tp-service-travel-icon mb-30"><i
                                                             class="flaticon-health-insurance-2"></i></span>
                                                     <h4 class="tp-service-travel-title mb-15"><a
-                                                            href="insurance-details.html">Short Settled Insurance</a></h4>
-                                                    <p class="mb-25">Short-settled insurance refers to a claim settled for less than expected.</p>
-                                                    <a href="insurance-details.html">Read More</a>
+                                                            href="https://auctest.rf.gd/claims-ok/rejection-of-claims.php">Rejection
+                                                            of Claim</a></h4>
+                                                    <p class="mb-25">Claim rejection occurs due to ineligible coverage,
+                                                        incomplete information, or failure to meet policy conditions.
+                                                    </p>
+                                                    <a href="https://auctest.rf.gd/claims-ok/rejection-of-claims.php">Read
+                                                        More</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -501,64 +521,67 @@
 
 
 
-       <!-- testimonial-area-start -->
-      <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
-         <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
-            src="assets/img/testimonial/family/main-img.png" alt="main">
-         <div class="container">
-            <div class="row mb-15 d-flex align-items-end">
-               <div class="col-lg-6 mb-30">
-                  <div class="tp-testimonial-title-wrapper">
-                     <span
-                        class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
-                        Testimonials</span>
-                     <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say About
-                        Us</h2>
-                  </div>
-               </div>
-               <div class="col-lg-6 mb-45">
-                  <div class="tp-testimonial-navigation f-right">
-                     <span class="tp-testimonial-family-prev"><i class="fa-sharp fa-regular fa-arrow-left"></i></span>
-                     <span class="tp-testimonial-family-next"><i class="fa-sharp fa-regular fa-arrow-right"></i></span>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="swiper-container tp-testimonial-slide-family">
-                  <div class="swiper-wrapper">
-                     <?php
+        <!-- testimonial-area-start -->
+        <div class="tp-testimonial-area p-relative tp-blue-bg-2 pt-115 pb-125">
+            <img class="tp-testimonial-shape-family d-none d-xxl-block p-absolute"
+                src="assets/img/testimonial/family/main-img.png" alt="main">
+            <div class="container">
+                <div class="row mb-15 d-flex align-items-end">
+                    <div class="col-lg-6 mb-30">
+                        <div class="tp-testimonial-title-wrapper">
+                            <span
+                                class="tp-section-title-pre-family section-title tp-section-title-pre-family-2 tp-split-in-right mb-10">Our
+                                Testimonials</span>
+                            <h2 class="tp-section-title tp-section-title-dark tp-split-in-left">What Our Clients Say
+                                About
+                                Us</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 mb-45">
+                        <div class="tp-testimonial-navigation f-right">
+                            <span class="tp-testimonial-family-prev"><i
+                                    class="fa-sharp fa-regular fa-arrow-left"></i></span>
+                            <span class="tp-testimonial-family-next"><i
+                                    class="fa-sharp fa-regular fa-arrow-right"></i></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="swiper-container tp-testimonial-slide-family">
+                        <div class="swiper-wrapper">
+                            <?php
                      include('db_con.php');
                      $result = $con->query("SELECT name, review, designation, image_path FROM add_testimonial");
                      while ($row = $result->fetch_assoc()):
                      ?>
-                     <div class="swiper-slide">
-                        <div class="tp-testimonial-wrapper-family">
-                           <div class="d-flex align-items-center justify-content-between mb-20">
-                              <div class="tp-testimonial-thumb-family d-flex align-items-center">
-                                 <img class="tp-testimonial-thumb-img-family" width="60" height="60"
-                                    src="admin/<?php echo $row['image_path']; ?>" alt="01">
-                                 <div class="tp-testimonial-user">
-                                    <h6 class="tp-testimonial-user-title"><?php echo $row['name']; ?></h6>
-                                 </div>
-                              </div>
-                              <div class="tp-testimonial-quote">
-                                 <img src="assets/img/testimonial/qoute.svg" alt="qoute">
-                              </div>
-                           </div>
-                           <div class="tp-testimonial-content-wrapper">
-                              <p class="tp-testimonial-para-family-2 mb-20"><?php echo $row['review']; ?></p>
+                            <div class="swiper-slide">
+                                <div class="tp-testimonial-wrapper-family">
+                                    <div class="d-flex align-items-center justify-content-between mb-20">
+                                        <div class="tp-testimonial-thumb-family d-flex align-items-center">
+                                            <img class="tp-testimonial-thumb-img-family" width="60" height="60"
+                                                src="admin/<?php echo $row['image_path']; ?>" alt="01">
+                                            <div class="tp-testimonial-user">
+                                                <h6 class="tp-testimonial-user-title"><?php echo $row['name']; ?></h6>
+                                            </div>
+                                        </div>
+                                        <div class="tp-testimonial-quote">
+                                            <img src="assets/img/testimonial/qoute.svg" alt="qoute">
+                                        </div>
+                                    </div>
+                                    <div class="tp-testimonial-content-wrapper">
+                                        <p class="tp-testimonial-para-family-2 mb-20"><?php echo $row['review']; ?></p>
 
-                           </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <?php endwhile; ?>
                         </div>
-                     </div>
-                     <?php endwhile; ?>
-                  </div>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-      <!-- testimonial-area-end -->
-       
+        </div>
+        <!-- testimonial-area-end -->
+
         <!-- tp-blog-area-end -->
         <div class="tp-cta-area tp-cta-family-spacing bg-position p-relative pb-70 pt-135"
             data-background="assets/img/cta/family/cta-bg.jpg">
