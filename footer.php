@@ -103,3 +103,64 @@
         </div>
     </div>
 </footer>
+<div class="bottom-nav">
+        <div class="nav-item">
+            <a href="index.php">
+                <i class="fas fa-home"></i>
+                <span>Home</span>
+            </a>
+        </div>
+        <div class="nav-item">
+            <a href="about.php">
+                <i class="fas fa-info-circle"></i>
+                <span>About Us</span>
+            </a>
+        </div>
+        <div class="nav-item">
+            <i class="fas fa-phone"></i>
+            <span><a href="tel:">Call</a></span>
+        </div>
+        <div class="nav-item">
+            <a href="contact.php">
+           <i class="fas fa-comment-dots"></i>
+            <span>Contact Us</span>
+            </a>
+        </div>
+    </div>
+ <style>
+        /* Bottom Navigation Styling */
+        .bottom-nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-around;
+            padding: 9px 0;
+            border-top: 1px solid #ddd;
+            z-index: 99;
+        }
+
+        .nav-item {
+            text-align: center;
+            font-size: 14px;
+            color: black;
+        }
+
+        .nav-item i {
+            font-size: 20px;
+            display: block;
+            color: green;
+        }
+
+        /* Hide on Desktop */
+        @media (min-width: 768px) {
+            .bottom-nav {
+                display: none;
+            }
+           
+        }
+    </style>
+     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
